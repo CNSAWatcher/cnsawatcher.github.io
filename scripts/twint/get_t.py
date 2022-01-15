@@ -11,7 +11,7 @@ from pathlib import Path
 # print(Path(path).parent.name)
 
 PATH_OF_GIT_REPO = Path(os.getcwd()).parent.parent  # make sure .git folder is properly configured
-COMMIT_MESSAGE = 'update'
+COMMIT_MESSAGE = 'auto update'
 
 def dfToList(df):
     return list(df.T.to_dict().values())
@@ -33,7 +33,7 @@ def git_pull():
         repo = Repo(PATH_OF_GIT_REPO)
         repo.git.pull
     except Exception as e:
-        save_to_file(e)  
+        save_to_file(str(e))  
         
 def git_push():
     try:
@@ -43,7 +43,7 @@ def git_push():
         origin = repo.remote(name='origin')
         origin.push()
     except Exception as e:
-        save_to_file(e)    
+        save_to_file(str(e))    
 
 # suppress = " >/dev/null 2>&1"
 
@@ -58,7 +58,7 @@ while True:
 #     os.system("git pull"+suppress)
     git_pull()
     save_to_file(("Git Pulled"))
-    sleep(30)
+    sleep(5)
 
 
     """

@@ -33,7 +33,7 @@ while True:
     save_to_file((datetime.now().strftime("%d/%m/%Y %H:%M:%S")))
     os.system("git pull")
     save_to_file(("Git Pulled"))
-    sleep(5)
+    sleep(30)
 
 
     """
@@ -121,13 +121,13 @@ while True:
     """
     os.system("git add --all")
     save_to_file(("files added to git"))
-    sleep(5)
+    sleep(30)
     """
     git commit
     """
     os.system('git commit -m "auto updates"')
     save_to_file("files committed")
-    sleep(5)
+    sleep(30)
     """
     git push
     """

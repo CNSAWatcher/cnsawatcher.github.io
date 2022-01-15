@@ -22,6 +22,7 @@ def save_to_file(str):
     with open(r'../../../log.txt', 'a') as f:
         f.write(str + '\n')
 
+suppress = " >/dev/null 2>&1"
 
 while True:
     """
@@ -31,7 +32,7 @@ while True:
 
     save_to_file("-"*50)
     save_to_file((datetime.now().strftime("%d/%m/%Y %H:%M:%S")))
-    os.system("git pull")
+    os.system("git pull"+suppress)
     save_to_file(("Git Pulled"))
     sleep(30)
 
@@ -119,19 +120,19 @@ while True:
     """
     git add --all
     """
-    os.system("git add --all")
+    os.system("git add --all"+suppress)
     save_to_file(("files added to git"))
     sleep(30)
     """
     git commit
     """
-    os.system('git commit -m "auto updates"')
+    os.system('git commit -m "auto updates"'+suppress)
     save_to_file("files committed")
     sleep(30)
     """
     git push
     """
-    os.system("git push")
+    os.system("git push"+suppress)
     save_to_file("files pushed")
     save_to_file("")
     sleep(1800)

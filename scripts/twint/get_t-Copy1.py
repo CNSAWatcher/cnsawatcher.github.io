@@ -18,4 +18,5 @@ def git_push():
 
 while True:
     git_push()
+    print(123)
     sleep(1800)

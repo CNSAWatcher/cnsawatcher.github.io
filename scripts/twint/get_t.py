@@ -16,7 +16,7 @@ def saveJSON(data, jsonFilename):
         json.dump(data , f, ensure_ascii=False)
 
 
-
+assert os.path.isfile('../../../log.txt')
 def save_to_file(str):
     print(str)
     with open('../../../log.txt', 'a') as f:

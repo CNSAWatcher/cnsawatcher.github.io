@@ -1,6 +1,7 @@
 from git import Repo
 from pathlib import Path
 from time import sleep
+import os
 # print(Path(path).parent.name)
 
 PATH_OF_GIT_REPO = Path(os.getcwd()).parent.parent  # make sure .git folder is properly configured

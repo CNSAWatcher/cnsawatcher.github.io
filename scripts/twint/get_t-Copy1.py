@@ -6,11 +6,21 @@ import os
 
 PATH_OF_GIT_REPO = Path(os.getcwd()).parent.parent  # make sure .git folder is properly configured
 COMMIT_MESSAGE = 'auto update'
+
+# repo = git.Repo(os.getcwd())
+# files = repo.git.diff(None, name_only=True)
+# for f in files.split('\n'):
+#     show_diff(f)
+#     repo.git.add(f)
+
+# repo.git.commit('test commit', author='sunilt@xxx.com')
+
+
 def git_push():
 #     try:
     repo = Repo(PATH_OF_GIT_REPO)
     repo.git.add(all=True)
-    repo.index.commit(COMMIT_MESSAGE)
+    repo.git.commit(COMMIT_MESSAGE)
     origin = repo.remote(name='origin')
     origin.push()
 #     except Exception as e:

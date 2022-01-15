@@ -14,7 +14,7 @@ def git_push():
         origin = repo.remote(name='origin')
         origin.push()
     except Exception as e:
-        save_to_file(str(e))    
+        print(str(e))    
 
 
 while True:

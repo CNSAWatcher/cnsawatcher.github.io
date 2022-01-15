@@ -20,7 +20,7 @@ def git_push():
 #     try:
     repo = Repo(PATH_OF_GIT_REPO)
     repo.git.add(all=True)
-    repo.git.commit("-m", COMMIT_MESSAGE)
+    repo.git.commit("-m", COMMIT_MESSAGE, author = "pcscript@gmail.com")
     origin = repo.remote(name='origin')
     origin.push()
 #     except Exception as e:

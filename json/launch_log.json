@@ -1,0 +1,2465 @@
+[{
+  "date": "2021-09-09",
+  "time": "11:50",
+  "rocket": "Long March 3B",
+  "payload": "Zhongxing-9B",
+  "launchsite": "Xichang",
+  "description": "At 11:50 UTC September 9, Zhongxing(ChinaSat)-9B broadcast satellite was successfully launched by CZ3B(LM3B) rocket at Xichang Launch Center, Sichuan. It’s the 388th launch of Long March rocket family.",
+  "tweetID": 1436008821776859136
+},{
+  "date": "2021-09-06",
+  "time": "03:01",
+  "rocket": "Long March 4C",
+  "payload": "Gaofen-5-02",
+  "launchsite": "Taiyuan",
+  "description": "At 03:01 UTC September 7, Gaofen(HighResolution)-5-02 hyper spectral satellite was successfully launched by CZ4C(LM4C) rocket at Taiyuan Launch Center, Shanxi. It’s the 387th launch of Long March rocket family.",
+  "tweetID": 1435088534130630659
+},{
+  "date": "2021-08-24",
+  "time": "15:41",
+  "rocket": "Long March 3B",
+  "payload": "TJS 7",
+  "launchsite": "Xichang",
+  "description": "A Chinese Long March 3B rocket launched the TJS 7 geostationary satellite for China's military. The satellite may have an intelligence or early warning mission.",
+  "tweetID": 1430272854076035072
+}, {
+  "date": "2021-08-24",
+  "time": "11:15",
+  "rocket": "Long March 2C",
+  "payload": "RSW",
+  "launchsite": "Jiuquan",
+  "description": "A Chinese Long March 2C rocket with a Yuanzheng 1S upper stage launched two RSW demonstration satellites for a planned Chinese space-based internet network.",
+  "tweetID": 1430268930203996167
+}, {
+  "date": "2021-08-18",
+  "time": "22:32",
+  "rocket": "Long March 4B",
+  "payload": "Tianhui 2-02",
+  "launchsite": "Taiyuan",
+  "description": "A Chinese Long March 4B rocket launched two Tianhui-02 radar mapping satellites.",
+  "tweetID": 1428204759010447369
+}, {
+  "date": "2021-08-05",
+  "time": "16:30",
+  "rocket": "Long March 3B",
+  "payload": "Zhongxing 2E",
+  "launchsite": "Xichang",
+  "description": "A Chinese Long March 3B rocket launched the Zhongxing 2E, or Chinasat 2E, communications satellite. The satellite is believed to have launched on a mission to serve the Chinese military.",
+  "tweetID": 1423567793774071811
+}, {
+  "date": "2021-08-04",
+  "time": "11:01",
+  "rocket": "Long March 6",
+  "payload": "KL-Beta A/B",
+  "launchsite": "Taiyuan",
+  "description": "A Chinese Long March 6 rocket launched the KL-Beta A and B technology demonstration satellites for the Shanghai Institute of Microsatellite Innovation and the German company KLEO Connect. The small satellites will test communications and electric thruster technology.",
+  "tweetID": 1423204690955751429
+}, {
+  "date": "2021-08-03",
+  "time": "07:39",
+  "rocket": "Hyperbola 1",
+  "payload": "Jilin-1 MF-01A",
+  "launchsite": "Jiuquan",
+  "description": "A Hyperbola 1 rocket developed by i-Space, a commercial space company in China, failed during an orbital launch attempt. The payload on this mission was not immediately identified.",
+  "tweetID": 1422489282481098771
+}, {
+  "date": "2021-07-29",
+  "time": "04:01",
+  "rocket": "Long March 2D",
+  "payload": "Tianhui 1-04",
+  "launchsite": "Jiuquan",
+  "description": "A Chinese Long March 2D rocket launched the Tianhui 1-04 mapping and surveying satellite for the Chinese military. Delayed from July 15.",
+  "tweetID": 1420650285664546817
+}, {
+  "date": "2021-07-19",
+  "time": "00:19",
+  "rocket": "Long March 2C",
+  "payload": "Yaogan 30-10",
+  "launchsite": "Xichang",
+  "description": "A Chinese Long March 2C rocket launched three Yaogan 30-10 surveillance satellites for the Chinese military and the Tianqi 15 data relay small satellite.",
+  "tweetID": 1416985942750113795
+}, {
+  "date": "2021-07-09",
+  "time": "11:59",
+  "rocket": "Long March 6",
+  "payload": "Ningxia 1",
+  "launchsite": "Taiyuan",
+  "description": "A Chinese Long March 6 rocket launched five Ningxia 1 satellites for a signals intelligence mission.",
+  "tweetID": 1413602059581067265
+}, {
+  "date": "2021-07-06",
+  "time": "15:53",
+  "rocket": "Long March 3C",
+  "payload": "Tianlian 1-05",
+  "launchsite": "Xichang",
+  "description": "A Chinese Long March 3C rocket launched China’s fifth Tianlian 1 data relay satellite.",
+  "tweetID": 1412469399420817420
+}, {
+  "date": "2021-07-04",
+  "time": "23:28",
+  "rocket": "Long March 4C",
+  "payload": "Fengyun 3E",
+  "launchsite": "Jiuquan",
+  "description": "A Chinese Long March 4C rocket launched the Fengyun 3E polar-orbiting weather satellite for the China Meteorological Administration.",
+  "tweetID": 1411858002517188608
+}, {
+  "date": "2021-07-03",
+  "time": "02:51",
+  "rocket": "Long March 2D",
+  "payload": "Jilin 1",
+  "launchsite": "Taiyuan",
+  "description": "A Chinese Long March 2D rocket launched five small spacecraft, including four Jilin 1 Earth observation satellites for Chang Guang Satellite Technology Co. Ltd., a commercial remote sensing company based in China’s Jilin province. The rocket also launched a small satellite named Xingshidai 10.",
+  "tweetID": 1411256186209439745
+}, {
+  "date": "2021-06-18",
+  "time": "06:30",
+  "rocket": "Long March 2C",
+  "payload": "Yaogan 30-09",
+  "launchsite": "Xichang",
+  "description": "A Chinese Long March 2C rocket launched three Yaogan 30-09 surveillance satellites for the Chinese military and the Tianqi 14 data relay small satellite.",
+  "tweetID": 1405806212457930756
+}, {
+  "date": "2021-06-17",
+  "time": "01:22",
+  "rocket": "Long March 2F",
+  "payload": "Shenzhou 12",
+  "launchsite": "Jiuquan",
+  "description": "A Chinese Long March 2F rocket launched the Shenzhou 12 spacecraft with three Chinese astronauts to rendezvous and dock with the Chinese space station in low Earth orbit. This is China's seventh crewed space mission, and the first to the Chinese space station. Delayed from June 10.",
+  "tweetID": 1405343312429604865
+}, {
+  "date": "2021-06-11",
+  "time": "03:03",
+  "rocket": "Long March 2D",
+  "payload": "Beijing 3",
+  "launchsite": "Taiyuan",
+  "description": "A Chinese Long March 2D rocket launched four small satellites, including the Beijing 3 optical remote sensing satellite for 21st Century Aerospace Technology, the Haisi 2 optical remote sensing satellite, the Yangwang 1 asteroid observation satellite for Origin Space, and the Tianjian tech demo spacecraft.",
+  "tweetID": 1403245539450368000
+}, {
+  "date": "2021-06-02",
+  "time": "16:17",
+  "rocket": "Long March 3B",
+  "payload": "Fengyun 4B",
+  "launchsite": "Xichang",
+  "description": "A Chinese Long March 3B rocket launched the Fengyun 4B geostationary weather satellite, the second in a new generation of Chinese meteorological observatories. Delayed from May 27.",
+  "tweetID": -1
+}, {
+  "date": "2021-05-29",
+  "time": "12:55",
+  "rocket": "Long March 7",
+  "payload": "Tianzhou 2",
+  "launchsite": "Wenchang",
+  "description": "A Chinese Long March 7 launched the Tianzhou 2 resupply ship to dock with the Chinese space station. The automated cargo craft is the first resupply freighter for the Chinese space station. Scrubbed on May 19 and May 20.",
+  "tweetID": -1
+}, {
+  "date": "2021-05-19",
+  "time": "04:03",
+  "rocket": "Long March 4B",
+  "payload": "Haiyang 2D",
+  "launchsite": "Jiuquan",
+  "description": "A Chinese Long March 4B rocket launched China’s Haiyang 2D oceanography satellite.",
+  "tweetID": -1
+}, {
+  "date": "2021-05-06",
+  "time": "18:11",
+  "rocket": "Long March 2C",
+  "payload": "Yaogan 30-08",
+  "launchsite": "Xichang",
+  "description": "A Chinese Long March 2C rocket launched three Yaogan 30-08 surveillance satellites for the Chinese military and the Tianqi 12 data relay small satellite.",
+  "tweetID": -1
+}, {
+  "date": "2021-04-30",
+  "time": "07:27",
+  "rocket": "Long March 4C",
+  "payload": "Yaogan 34",
+  "launchsite": "Jiuquan",
+  "description": "A Chinese Long March 4C rocket launched the Yaogan 34 military optical spy satellite.",
+  "tweetID": -1
+}, {
+  "date": "2021-04-29",
+  "time": "03:23",
+  "rocket": "Long March 5B",
+  "payload": "Tianhe",
+  "launchsite": "Wenchang",
+  "description": "A Chinese Long March 5B rocket launched Tianhe, the core module for a Chinese space station low Earth orbit.",
+  "tweetID": -1
+}, {
+  "date": "2021-04-27",
+  "time": "03:20",
+  "rocket": "Long March 6",
+  "payload": "Qilu 1 &#038; Qilu 4",
+  "launchsite": "Taiyuan",
+  "description": "A Chinese Long March 6 rocket launched the Qilu 1 and Qilu 4 Earth observation satellites, plus several smaller rideshare payloads.",
+  "tweetID": -1
+}, {
+  "date": "2021-04-08",
+  "time": "23:01",
+  "rocket": "Long March 4B",
+  "payload": "Shiyan 6-02",
+  "launchsite": "Taiyuan",
+  "description": "A Chinese Long March 4B rocket launched the Shiyan 6-03 satellite to study the space environment and conduct related technology experiments.",
+  "tweetID": -1
+}, {
+  "date": "2021-03-30",
+  "time": "22:45",
+  "rocket": "Long March 4C",
+  "payload": "Gaofen 12-02",
+  "launchsite": "Jiuquan",
+  "description": "A Chinese Long March 4C rocket launched the Gaofen 12-02 Earth observation satellite to assist in land surveys, urban planning, and agriculture monitoring.",
+  "tweetID": -1
+}, {
+  "date": "2021-03-13",
+  "time": "02:19",
+  "rocket": "Long March 4C",
+  "payload": "Yaogan 31",
+  "launchsite": "Jiuquan",
+  "description": "A Chinese Long March 4C rocket launched three Yaogan 31 military reconnaissance satellites.",
+  "tweetID": -1
+}, {
+  "date": "2021-03-11",
+  "time": "17:51",
+  "rocket": "Long March 7A",
+  "payload": "Shiyan 9",
+  "launchsite": "Wenchang",
+  "description": "A Chinese Long March 7A rocket launched the experimental Shiyan 9 satellite. The launch marked the second flight of the Long March 7A rocket variant with a third stage to place spacecraft into high-energy orbits.",
+  "tweetID": -1
+}, {
+  "date": "2021-02-24",
+  "time": "02:22",
+  "rocket": "Long March 4C",
+  "payload": "Yaogan 31",
+  "launchsite": "Jiuquan",
+  "description": "A Chinese Long March 4C rocket launched three Yaogan 31 military reconnaissance satellites.",
+  "tweetID": -1
+}, {
+  "date": "2021-02-04",
+  "time": "16:25",
+  "rocket": "Long March 3B",
+  "payload": "TJS 6",
+  "launchsite": "Xichang",
+  "description": "A Chinese Long March 3B rocket launched the TJS 6 satellite for China's military. The satellite is believed to have an early warning mission.",
+  "tweetID": -1
+}, {
+  "date": "2021-02-01",
+  "time": "08:15",
+  "rocket": "Hyperbola 1",
+  "payload": "Multi-payload",
+  "launchsite": "Jiuquan",
+  "description": "A Hyperbola 1 rocket developed by i-Space, a commercial space company in China, failed during a launch attempt with several small unidentified payloads.",
+  "tweetID": -1
+}, {
+  "date": "2021-01-29",
+  "time": "04:47",
+  "rocket": "Long March 4C",
+  "payload": "Yaogan 31",
+  "launchsite": "Jiuquan",
+  "description": "A Chinese Long March 4C rocket launched three Yaogan 31 military reconnaissance satellites.",
+  "tweetID": -1
+}, {
+  "date": "2021-01-19",
+  "time": "16:25",
+  "rocket": "Long March 3B",
+  "payload": "Tiantong 1-03",
+  "launchsite": "Xichang",
+  "description": "A Chinese Long March 3B rocket launched the Tiantong 1-03 mobile communications satellite.",
+  "tweetID": -1
+}, {
+  "date": "2020-12-27",
+  "time": "15:44",
+  "rocket": "Long March 4C",
+  "payload": "Yaogan 33",
+  "launchsite": "Jiuquan",
+  "description": "A Chinese Long March 4C rocket launched the Yaogan 33 military reconnaissance satellite.",
+  "tweetID": -1
+}, {
+  "date": "2020-12-22",
+  "time": "04:37",
+  "rocket": "Long March 8",
+  "payload": "XJY 7",
+  "launchsite": "Wenchang",
+  "description": "A Chinese medium-lift Long March 8 rocket launched on its inaugural flight with a secret payload designated XJY 7 and several secondary payloads. Delayed from Dec. 20 by poor weather.",
+  "tweetID": -1
+}, {
+  "date": "2020-12-09",
+  "time": "20:14",
+  "rocket": "Long March 11",
+  "payload": "GECAM",
+  "launchsite": "Xichang",
+  "description": "A Chinese Long March 11 rocket launched the Gravitational Wave High-energy Electromagnetic Counterpart All-sky Monitor, or GECAM, mission. The GECAM mission consists of two small satellites to detect the electromagnetic counterparts of gravitational waves and other astrophysical signals, aiding in the study of neutron stars and black holes.",
+  "tweetID": -1
+}, {
+  "date": "2020-12-06",
+  "time": "03:58",
+  "rocket": "Long March 3B",
+  "payload": "Gaofen 14",
+  "launchsite": "Xichang",
+  "description": "A Chinese Long March 3B rocket launched the Gaofen 14 Earth observation satellite.",
+  "tweetID": -1
+}, {
+  "date": "2020-11-23",
+  "time": "20:30",
+  "rocket": "Long March 5",
+  "payload": "Chang'e 5",
+  "launchsite": "Wenchang",
+  "description": "A Chinese Long March 5 rocket launched the Chang'e 5 mission to return samples from the moon. It is the first lunar sample return mission attempted since 1976. Delayed from November 2019.",
+  "tweetID": -1
+}, {
+  "date": "2020-11-12",
+  "time": "15:59",
+  "rocket": "Long March 3B",
+  "payload": "Tiantong 1-02",
+  "launchsite": "Xichang",
+  "description": "A Chinese Long March 3B rocket launched the Tiantong 1-02 mobile communications satellite.",
+  "tweetID": -1
+}, {
+  "date": "2020-11-07",
+  "time": "07:12",
+  "rocket": "Ceres 1",
+  "payload": "Tianqi 11",
+  "launchsite": "Jiuquan",
+  "description": "A Chinese Ceres 1 rocket successfully launched the Tianqi 11 data relay microsatellite. The Ceres 1 rocket is operated by the Chinese startup Galactic Energy. Tianqi 11 joins an Internet of Things constellation owned by Guodian Gaoke.",
+  "tweetID": -1
+}, {
+  "date": "2020-11-06",
+  "time": "03:19",
+  "rocket": "Long March 6",
+  "payload": "ÑuSat 9-18",
+  "launchsite": "Taiyuan",
+  "description": "A Chinese Long March 6 rocket launched 10 ÑuSat Earth-imaging satellites for Satellogic, an Argentine satellite manufacturer and remote sensing company. Delayed from Oct. 14.",
+  "tweetID": -1
+}, {
+  "date": "2020-10-26",
+  "time": "15:19",
+  "rocket": "Long March 2C",
+  "payload": "Yaogan 30-07",
+  "launchsite": "Xichang",
+  "description": "A Chinese Long March 2C rocket launched with three Yaogan 30-07 surveillance satellites for the Chinese military. The Tianqi 6 data relay CubeSat launched as a secondary payload.",
+  "tweetID": -1
+}, {
+  "date": "2020-10-11",
+  "time": "16:57",
+  "rocket": "Long March 3B",
+  "payload": "Gaofen 13",
+  "launchsite": "Xichang",
+  "description": "A Chinese Long March 3B rocket launched the Gaofen 13 geosynchronous Earth observation satellite.",
+  "tweetID": -1
+}, {
+  "date": "2020-09-27",
+  "time": "03:23",
+  "rocket": "Long March 4B",
+  "payload": "Huanjing 2A & 2B",
+  "launchsite": "Taiyuan",
+  "description": "A Chinese Long March 4B rocket launched China’s Huanjing 2A & 2B satellites. Chinese officials described the Huanjing payloads as environmental monitoring satellites.",
+  "tweetID": -1
+}, {
+  "date": "2020-09-21",
+  "time": "05:40",
+  "rocket": "Long March 4B",
+  "payload": "Haiyang 2C",
+  "launchsite": "Jiuquan",
+  "description": "A Chinese Long March 4B rocket launched China’s Haiyang 2C oceanography satellite.",
+  "tweetID": -1
+}, {
+  "date": "2020-09-12",
+  "time": "05:02",
+  "rocket": "Kuaizhou 1A",
+  "payload": "Jilin 1 Gaofen 02C",
+  "launchsite": "Jiuquan",
+  "description": "A Chinese Kuaizhou 1A rocket failed to reach orbit with the Jilin 1 Gaofen 02C Earth observation satellite for Chang Guang Satellite Technology Co. Ltd.",
+  "tweetID": -1
+}, {
+  "date": "2020-09-07",
+  "time": "05:57",
+  "rocket": "Long March 4B",
+  "payload": "Gaofen 11-02",
+  "launchsite": "Taiyuan",
+  "description": "A Chinese Long March 4B rocket launched China’s second Gaofen 11-series Earth observation satellite.",
+  "tweetID": -1
+}, {
+  "date": "2020-09-04",
+  "time": "07:30",
+  "rocket": "Long March 2F",
+  "payload": "Reusable Test Spacecraft",
+  "launchsite": "Jiuquan",
+  "description": "A Chinese Long March 2F rocket launched a Reusable Test Spacecraft. The Chinese spacecraft, possibly a winged spaceplane, landed back on Earth two days after launch.",
+  "tweetID": -1
+}, {
+  "date": "2020-08-23",
+  "time": "02:27",
+  "rocket": "Long March 2D",
+  "payload": "Gaofen 9-05",
+  "launchsite": "Jiuquan",
+  "description": "A Chinese Long March 2D rocket launched China’s fifth Gaofen 9-series Earth observation satellite.",
+  "tweetID": -1
+}, {
+  "date": "2020-08-06",
+  "time": "04:01",
+  "rocket": "Long March 2D",
+  "payload": "Gaofen 9-04",
+  "launchsite": "Jiuquan",
+  "description": "A Chinese Long March 2D launched China’s fourth Gaofen 9-series Earth observation satellite.",
+  "tweetID": -1
+}, {
+  "date": "2020-07-25",
+  "time": "03:13",
+  "rocket": "Long March 4B",
+  "payload": "Ziyuan 3-3",
+  "launchsite": "Taiyuan",
+  "description": "A Chinese Long March 4B rocket launched the third Ziyuan 3 land survey satellite.",
+  "tweetID": -1
+}, {
+  "date": "2020-07-23",
+  "time": "04:41",
+  "rocket": "Long March 5",
+  "payload": "Tianwen 1",
+  "launchsite": "Wenchang",
+  "description": "A Chinese Long March 5 rocket launched the Tianwen 1 mission to attempt China’s first landing on Mars. The robotic mission includes an orbiter and a mobile rover to explore the surface of Mars.",
+  "tweetID": -1
+}, {
+  "date": "2020-07-10",
+  "time": "04:17",
+  "rocket": "Kuaizhou 11",
+  "payload": "Jilin 1 & Centispace-1-S2",
+  "launchsite": "Jiuquan",
+  "description": "A Chinese Kuaizhou 11 rocket failed on its first mission. The rocket and its two payloads were lost. The Kuaizhou 11 rocket carried a Jilin 1 commercial Earth-imaging satellite developed by Chang Guang Satellite Technology Co. Ltd, and the Centispace-1-S2 microsatellite.",
+  "tweetID": -1
+}, {
+  "date": "2020-07-09",
+  "time": "12:11",
+  "rocket": "Long March 3B",
+  "payload": "Apstar 6D",
+  "launchsite": "Xichang",
+  "description": "A Chinese Long March 3B rocket launched the Apstar 6D communications satellite for APT Mobile Satcom Ltd. Built by the China Academy of Space Technology, the Apstar 6D satellite will provide broadband and mobile communication services over the Asia-Pacific region.",
+  "tweetID": -1
+}, {
+  "date": "2020-07-04",
+  "time": "23:44",
+  "rocket": "Long March 2D",
+  "payload": "Shiyan 6-02",
+  "launchsite": "Jiuquan",
+  "description": "A Chinese Long March 2D rocket launched the Shiyan 6-02 satellite to study the space environment and conduct related technology experiments.",
+  "tweetID": -1
+}, {
+  "date": "2020-07-03",
+  "time": "03:10",
+  "rocket": "Long March 4B",
+  "payload": "Gaofen",
+  "launchsite": "Taiyuan",
+  "description": "A Chinese Long March 4B rocket launched a Gaofen high-resolution multi-mode Earth observation satellite.",
+  "tweetID": -1
+}, {
+  "date": "2020-06-23",
+  "time": "01:43",
+  "rocket": "Long March 3B",
+  "payload": "Beidou",
+  "launchsite": "Xichang",
+  "description": "A Chinese Long March 3B rocket launched a satellite for the country’s Beidou navigation network toward geostationary orbit. Delayed from May and June 16.",
+  "tweetID": -1
+}, {
+  "date": "2020-06-17",
+  "time": "07:19",
+  "rocket": "Long March 2D",
+  "payload": "Gaofen 9-03",
+  "launchsite": "Jiuquan",
+  "description": "A Chinese Long March 2D launched China’s third Gaofen 9-series Earth observation satellite, along with the HEAD 5 and Pixing 3A smallsats as secondary payloads.",
+  "tweetID": -1
+}, {
+  "date": "2020-06-10",
+  "time": "18:31",
+  "rocket": "Long March 2C",
+  "payload": "Haiyang 1D",
+  "launchsite": "Taiyuan",
+  "description": "A Chinese Long March 2C rocket launched the Haiyang 1D ocean observation satellite.",
+  "tweetID": -1
+}, {
+  "date": "2020-05-31",
+  "time": "08:53",
+  "rocket": "Long March 2D",
+  "payload": "Gaofen 9-02",
+  "launchsite": "Jiuquan",
+  "description": "A Chinese Long March 2D launched China’s second Gaofen 9-series Earth observation satellite, and the HEAD 4 ship and aircraft tracking microsatellite for Beijing-based HEAD Aerospace.",
+  "tweetID": -1
+}, {
+  "date": "2020-05-29",
+  "time": "20:13",
+  "rocket": "Long March 11",
+  "payload": "CX-6-01",
+  "launchsite": "Xichang",
+  "description": "A Chinese Long March 11 launched the small XJS G and XJS H technology experiment satellites. No other information about the satellites was released by Chinese officials.",
+  "tweetID": -1
+}, {
+  "date": "2020-05-12",
+  "time": "01:16",
+  "rocket": "Kuaizhou 1A",
+  "payload": "Xingyun 2-01 & 2-02",
+  "launchsite": "Jiuquan",
+  "description": "A Chinese Kuaizhou 1A rocket launched the first two satellites for China’s planned Xingyun Internet of Things communications and data relay constellation. Delayed from April.",
+  "tweetID": -1
+}, {
+  "date": "2020-05-05",
+  "time": "10:00",
+  "rocket": "Long March 5B",
+  "payload": "Test Flight",
+  "launchsite": "Wenchang",
+  "description": "A Chinese Long March 5B rocket launched on a test flight with an unpiloted prototype for China’s next-generation human-rated crew capsule designed for missions to the country’s planned space station and for human expeditions to the moon. This was the first flight of the Long March 5B variant of China’s most powerful rocket family. The Long March 5B is designed to launch elements of China’s future space station in low Earth orbit.",
+  "tweetID": -1
+}, {
+  "date": "2020-04-09",
+  "time": "11:46",
+  "rocket": "Long March 3B",
+  "payload": "Palapa N1",
+  "launchsite": "Xichang",
+  "description": "A Chinese Long March 3B rocket failed during launch of the Palapa N1 communications satellite, also known as Nusantara Dua. Palapa N1 is a Chinese-built spacecraft for Indonesia’s Palapa Satelit Nusantara Sejahtera, a joint venture owned by Indosat Ooredoo and Pasifik Satelit Nusantara.",
+  "tweetID": -1
+}, {
+  "date": "2020-03-24",
+  "time": "03:43",
+  "rocket": "Long March 2C",
+  "payload": "Yaogan 30-06",
+  "launchsite": "Xichang",
+  "description": "A Chinese Long March 2C rocket launched with three Yaogan 30-06 surveillance satellites for the Chinese military.",
+  "tweetID": -1
+}, {
+  "date": "2020-03-16",
+  "time": "13:34",
+  "rocket": "Long March 7A",
+  "payload": "XJY 6",
+  "launchsite": "Wenchang",
+  "description": "A Chinese Long March 7A rocket failed during the launch of a classified satellite known as XJY 6. The launch marked the first flight of the Long March 7A rocket variant with a third stage to place spacecraft into high-energy orbits.",
+  "tweetID": -1
+}, {
+  "date": "2020-03-09",
+  "time": "11:55",
+  "rocket": "Long March 3B",
+  "payload": "Beidou",
+  "launchsite": "Xichang",
+  "description": "A Chinese Long March 3B rocket launched a satellite for the country’s Beidou navigation network toward geostationary orbit.",
+  "tweetID": -1
+}, {
+  "date": "2020-02-19",
+  "time": "21:07",
+  "rocket": "Long March 2D",
+  "payload": "XJS-C, D, E & F",
+  "launchsite": "Xichang",
+  "description": "A Chinese Long March 2D rocket launched the XJS-C, D, E & F technology experiment satellites designed to test Earth observation systems in orbit.",
+  "tweetID": -1
+}, {
+  "date": "2020-01-16",
+  "time": "03:02",
+  "rocket": "Kuaizhou 1A",
+  "payload": "GS-SparkSat-03",
+  "launchsite": "Jiuquan",
+  "description": "A Chinese Kuaizhou 1A rocket launched the GS-SparkSat-03, or Yinhe 1, spacecraft for GalaxySpace, a Chinese commercial company aiming to deploy a fleet of hundreds of small satellites to provide global broadband communications services. Delayed from Jan. 12.",
+  "tweetID": -1
+}, {
+  "date": "2020-01-15",
+  "time": "02:53",
+  "rocket": "Long March 2D",
+  "payload": "Jilin 1, ÑuSat 7 & ÑuSat 8",
+  "launchsite": "Taiyuan",
+  "description": "A Chinese Long March 2D launched a small satellite for the Jilin 1 Earth observation constellation owned by Chang Guang Satellite Technology Co. Ltd. The Long March 2D also launched the ÑuSat 7 and ÑuSat 8 Earth observation microsatellites for Satellogic, a company based on Argentina, and the Chinese Tianqi 2-03 nanosatellite for a communication and data relay mission.",
+  "tweetID": -1
+}, {
+  "date": "2020-01-07",
+  "time": "15:20",
+  "rocket": "Long March 3B",
+  "payload": "TJS 5",
+  "launchsite": "Xichang",
+  "description": "A Chinese Long March 3B rocket launched the TJS 5 satellite. The purpose of the TJS 5 mission is to test communications technology, according to Chinese state media. Some analysts believe TJS 5 is a military early warning satellite.",
+  "tweetID": -1
+}, {
+  "date": "2019-12-27",
+  "time": "12:45",
+  "rocket": "Long March 5",
+  "payload": "Shijian 20",
+  "launchsite": "Wenchang",
+  "description": "A Chinese Long March 5 rocket launched the Shijian 20 communications satellite. Shijian 20 is the first spacecraft based on the new DFH-5 communications satellite platform, a heavier, higher-power next-generation design, replacing the Shijian 18 satellite lost on a launch failure in 2017. Delayed from November 2018. Delayed from January and July.",
+  "tweetID": -1
+}, {
+  "date": "2019-12-20",
+  "time": "03:22",
+  "rocket": "Long March 4B",
+  "payload": "CBERS 4A",
+  "launchsite": "Taiyuan",
+  "description": "A Chinese Long March 4B rocket launched the CBERS 4A remote sensing satellite. CBERS 4A is the fifth China-Brazil Earth Resources Satellite for the collection of global imagery for environmental, urban planning and agricultural applications.",
+  "tweetID": -1
+}, {
+  "date": "2019-12-16",
+  "time": "07:22",
+  "rocket": "Long March 3B",
+  "payload": "Beidou",
+  "launchsite": "Xichang",
+  "description": "A Chinese Long March 3B rocket and a Yuanzheng upper stage launched two Beidou navigation satellites into medium Earth orbit.",
+  "tweetID": -1
+}, {
+  "date": "2019-12-07",
+  "time": "08:52",
+  "rocket": "Kuaizhou 1A",
+  "payload": "Multi-payload",
+  "launchsite": "Taiyuan",
+  "description": "A Chinese Kuaizhou 1A rocket launched six small satellites, including the HEAD 2A and 2B microsatellites for HEAD Aerospace’s Skywalker environmental monitoring, communications and ship tracking constellation. The Kuaizhou 1A rocket also launched Spacety 16 and 17 small Earth observation satellites to orbit for Spacety Co. Ltd., and two experimental data relay nanosatellites named Tianqi 4A and 4B were also launched for Guodian Gaoke.",
+  "tweetID": -1
+}, {
+  "date": "2019-12-07",
+  "time": "02:55",
+  "rocket": "Kuaizhou 1A",
+  "payload": "Jilin 1 Gaofen 02B",
+  "launchsite": "Taiyuan",
+  "description": "A Chinese Kuaizhou 1A rocket launched a small satellite to join the Jilin 1 Earth observation constellation owned by Chang Guang Satellite Technology Co. Ltd.",
+  "tweetID": -1
+}, {
+  "date": "2019-11-27",
+  "time": "23:52",
+  "rocket": "Long March 4C",
+  "payload": "Gaofen 12",
+  "launchsite": "Taiyuan",
+  "description": "A Chinese Long March 4C rocket launched the Gaofen 12 radar observation satellite. Delayed from Nov. 25.",
+  "tweetID": -1
+}, {
+  "date": "2019-11-23",
+  "time": "00:55",
+  "rocket": "Long March 3B",
+  "payload": "Beidou",
+  "launchsite": "Jiuquan",
+  "description": "A Chinese Long March 3B rocket and a Yuanzheng upper stage launched two Beidou navigation satellites into medium Earth orbit.",
+  "tweetID": -1
+}, {
+  "date": "2019-11-17",
+  "time": "10:00",
+  "rocket": "Kuaizhou 1A",
+  "payload": "KL-Alpha",
+  "launchsite": "Jiuquan",
+  "description": "A Chinese Kuaizhou 1A rocket launched two small KL-Alpha satellites to perform Ka-band communication tests in orbit. Delayed from Nov. 10.",
+  "tweetID": -1
+}, {
+  "date": "2019-11-13",
+  "time": "06:35",
+  "rocket": "Long March 6",
+  "payload": "Ningxia 1",
+  "launchsite": "Taiyuan",
+  "description": "A Chinese Long March 6 rocket launched five Ningxia 1 satellites for remote sensing detection mission, according to Chinese state media. Previous reports suggested the satellites are designed for a signals intelligence mission.",
+  "tweetID": -1
+}, {
+  "date": "2019-11-13",
+  "time": "03:40",
+  "rocket": "Kuaizhou 1A",
+  "payload": "Jilin 1 Gaofen 02A",
+  "launchsite": "Jiuquan",
+  "description": "A Chinese Kuaizhou 1A rocket launched a small satellite to join the Jilin 1 Earth observation constellation owned by Chang Guang Satellite Technology Co. Ltd. Scrubbed on Oct. 29. Delayed from Nov. 6.",
+  "tweetID": -1
+}, {
+  "date": "2019-11-04",
+  "time": "17:43",
+  "rocket": "Long March 3B",
+  "payload": "Beidou",
+  "launchsite": "Xichang",
+  "description": "A Chinese Long March 3B rocket launched a Beidou navigation satellite toward a perch in an inclined geosynchronous orbit.",
+  "tweetID": -1
+}, {
+  "date": "2019-11-03",
+  "time": "03:22",
+  "rocket": "Long March 4B",
+  "payload": "Gaofen 7",
+  "launchsite": "Taiyuan",
+  "description": "A Chinese Long March 4B rocket launched with the Gaofen 7 Earth observation satellite and three secondary payloads, including a CubeSat to test a French-built iodine propulsion system and a scientific satellite for Sudan.",
+  "tweetID": -1
+}, {
+  "date": "2019-10-17",
+  "time": "15:21",
+  "rocket": "Long March 3B",
+  "payload": "TJS 4",
+  "launchsite": "Xichang",
+  "description": "A Chinese Long March 3B rocket launched the TJS 4 satellite. The purpose of the TJS 4 mission is to test communications technology, according to Chinese state media. Some analysts believe TJS 4 is a military signals intelligence-gathering satellite.",
+  "tweetID": -1
+}, {
+  "date": "2019-10-04",
+  "time": "18:51",
+  "rocket": "Long March 4C",
+  "payload": "Gaofen 10",
+  "launchsite": "Taiyuan",
+  "description": "A Chinese Long March 4C rocket launched with the Gaofen 10 Earth observation satellite, a likely replacement for a spacecraft lost an August 2016 launch failure.",
+  "tweetID": -1
+}, {
+  "date": "2019-09-25",
+  "time": "00:54",
+  "rocket": "Long March 2D",
+  "payload": "Yunhai 1-02",
+  "launchsite": "Jiuquan",
+  "description": "A Chinese Long March 2D rocket launched the Yunhai 1-02 environmental monitoring satellite.",
+  "tweetID": -1
+}, {
+  "date": "2019-09-22",
+  "time": "21:10",
+  "rocket": "Long March 3B",
+  "payload": "Beidou",
+  "launchsite": "Xichang",
+  "description": "A Chinese Long March 3B rocket and Yuanzheng upper stage launched two satellites into Medium Earth Orbit for the Beidou navigation constellation.",
+  "tweetID": -1
+}, {
+  "date": "2019-09-19",
+  "time": "06:42",
+  "rocket": "Long March 11",
+  "payload": "Zhuhai 1 Group 3",
+  "launchsite": "Jiuquan",
+  "description": "A Chinese Long March 11 rocket launched a third group of five Zhuhai 1 remote sensing satellites for a commercial constellation of Earth-imaging craft for Zhuhai Orbita Aerospace Science and Technology Co.",
+  "tweetID": -1
+}, {
+  "date": "2019-09-12",
+  "time": "03:26",
+  "rocket": "Long March 4B",
+  "payload": "Ziyuan 1-2D",
+  "launchsite": "Taiyuan",
+  "description": "A Chinese Long March 4B rocket launched with the Ziyuan 1-2D Earth observation satellite, the Ice Pathfinder microsatellite for polar ice observations, and the Taurus 1 CubeSat to test solar sail technology.",
+  "tweetID": -1
+}, {
+  "date": "2019-08-30",
+  "time": "23:41",
+  "rocket": "Kuaizhou 1A",
+  "payload": "KX-09 & Xiaoxiang 1-07",
+  "launchsite": "Jiuquan",
+  "description": "A Chinese Kuaizhou 1A rocket launched a small satellite payload named KX-09 for the Chinese Academy of Sciences and the Xiaoxiang 1-07 technology demonstration CubeSat for Spacety. Delayed from Aug. 29.",
+  "tweetID": -1
+}, {
+  "date": "2019-08-19",
+  "time": "12:03",
+  "rocket": "Long March 3B",
+  "payload": "Chinasat 18",
+  "launchsite": "Xichang",
+  "description": "A Chinese Long March 3B rocket launched with the Chinasat 18 communications spacecraft for China Satcom, a state-owned operator that provides government and commercial communications services. Chinasat 18 will provide fixed and mobile Ku-band and Ka-band connectivity over the Asia-Pacific region.",
+  "tweetID": -1
+}, {
+  "date": "2019-08-17",
+  "time": "04:11",
+  "rocket": "Jielong 1",
+  "payload": "Multi-payload",
+  "launchsite": "Jiuquan",
+  "description": "A Chinese Jielong 1 rocket launched on its first orbital mission with three small satellites. The Jielong 1 was developed by China Rocket Co., Ltd. using a commercial business model. The rocket delivered three Earth-observation and data relay satellites to orbit.",
+  "tweetID": -1
+}, {
+  "date": "2019-07-26",
+  "time": "03:57",
+  "rocket": "Long March 2C",
+  "payload": "Yaogan 30-05",
+  "launchsite": "Xichang",
+  "description": "A Chinese Long March 2C rocket launched with three Yaogan 30-05 surveillance satellites for the Chinese military.",
+  "tweetID": -1
+}, {
+  "date": "2019-07-25",
+  "time": "05:00",
+  "rocket": "Hyperbola 1",
+  "payload": "Multi-payload",
+  "launchsite": "Jiuquan",
+  "description": "A Hyperbola 1 rocket developed by i-Space, a commercial space company in China, successfully launched on its first orbital mission with several small payloads, including the CAS-7B amateur radio satellite.",
+  "tweetID": -1
+}, {
+  "date": "2019-06-24",
+  "time": "18:09",
+  "rocket": "Long March 3B",
+  "payload": "Beidou",
+  "launchsite": "Xichang",
+  "description": "A Chinese Long March 3B rocket launched a satellite for the country’s Beidou navigation network. The spacecraft will operate in an inclined geosynchronous orbit.",
+  "tweetID": -1
+}, {
+  "date": "2019-06-05",
+  "time": "04:06",
+  "rocket": "Long March 11",
+  "payload": "Multi-payload",
+  "launchsite": "Yellow Sea",
+  "description": "A Chinese Long March 11 rocket launched a Jilin 1 Earth-imaging satellite for Chang Guang Satellite Technology Co. Ltd, the Bufeng 1A and Bufeng 1B satellites to measure maritime wind speeds, and several secondary payloads into orbit. The solid-fueled Long March 11 rocket took off from an ocean platform in the Yellow Sea on China’s first sea-based orbital launch attempt.",
+  "tweetID": -1
+}, {
+  "date": "2019-05-22",
+  "time": "22:49",
+  "rocket": "Long March 4C",
+  "payload": "Yaogan 33",
+  "launchsite": "Taiyuan",
+  "description": "A Chinese Long March 4C rocket failed during the launch of the Yaogan 33 military reconnaissance satellite.",
+  "tweetID": -1
+}, {
+  "date": "2019-05-17",
+  "time": "15:48",
+  "rocket": "Long March 3C",
+  "payload": "Beidou",
+  "launchsite": "Xichang",
+  "description": "A Chinese Long March 3C rocket launched a satellite for the country’s Beidou navigation network toward geostationary orbit.",
+  "tweetID": -1
+}, {
+  "date": "2019-04-29",
+  "time": "22:52",
+  "rocket": "Long March 4B",
+  "payload": "Tianhui 2-01",
+  "launchsite": "Taiyuan",
+  "description": "A Chinese Long March 4B rocket launched two Tianhui satellites to conduct land surveys, mapping and scientific experiments in space.",
+  "tweetID": -1
+}, {
+  "date": "2019-04-20",
+  "time": "14:41",
+  "rocket": "Long March 3B",
+  "payload": "Beidou",
+  "launchsite": "Xichang",
+  "description": "A Chinese Long March 3B rocket launched a satellite for the country’s Beidou navigation network toward an inclined geosynchronous orbit.",
+  "tweetID": -1
+}, {
+  "date": "2019-03-31",
+  "time": "15:51",
+  "rocket": "Long March 3B",
+  "payload": "Tianlian 2-01",
+  "launchsite": "Xichang",
+  "description": "A Chinese Long March 3B rocket launched the Tianlian 2-01 tracking and data relay satellite to support the country’s human space program.",
+  "tweetID": -1
+}, {
+  "date": "2019-03-27",
+  "time": "09:39",
+  "rocket": "OS-M1",
+  "payload": "Lingque 1B",
+  "launchsite": "Jiuquan",
+  "description": "The commercial Chinese space company OneSpace launched its OS-M1 rocket on an inaugural orbital test flight with the Lingque 1B remote sensing CubeSat for ZeroG Lab, which is seeking to deploy a fleet of Earth-observing nanosatellites. The mission failed to achieve orbit after the launcher lost control during the second stage of flight. Delayed from March 25.",
+  "tweetID": -1
+}, {
+  "date": "2019-03-09",
+  "time": "16:28",
+  "rocket": "Long March 3B",
+  "payload": "Chinasat 6C",
+  "launchsite": "Xichang",
+  "description": "A Chinese Long March 3B rocket launched the Zhongxing 6C, or Chinasat 6C, communications satellite.",
+  "tweetID": -1
+}, {
+  "date": "2019-01-21",
+  "time": "05:42",
+  "rocket": "Long March 11",
+  "payload": "Jilin 1",
+  "launchsite": "Jiuquan",
+  "description": "A Chinese Long March 11 rocket launched two hyperspectral imaging satellites for Chang Guang Satellite Technology Co. Ltd., plus two secondary smallsat payloads.",
+  "tweetID": -1
+}, {
+  "date": "2019-01-10",
+  "time": "17:11",
+  "rocket": "Long March 3B",
+  "payload": "Chinasat 2D",
+  "launchsite": "Xichang",
+  "description": "A Chinese Long March 3B rocket launched the Zhongxing 2D, or Chinasat 2D, communications satellite.",
+  "tweetID": -1
+}, {
+  "date": "2018-12-29",
+  "time": "08:00",
+  "rocket": "Long March 2D",
+  "payload": "Hongyan 1 & Yunhai 2",
+  "launchsite": "Xichang",
+  "description": "A Chinese Long March 2D rocket launched a test satellite named Chongqing for China’s planned Hongyan broadband Internet constellation and six Yunhai 2 atmospheric research satellites. The Long March 2D rocket launched with the first Yuanzheng 3 upper stage, a new variant of China’s Yuanzheng upper stage capable of up to 20 engine burns over 48 hours.",
+  "tweetID": -1
+}, {
+  "date": "2018-12-24",
+  "time": "16:53",
+  "rocket": "Long March 3C",
+  "payload": "TJS 3",
+  "launchsite": "Xichang",
+  "description": "A Chinese Long March 3C rocket launched the TJS 3 communications technology test satellite.",
+  "tweetID": -1
+}, {
+  "date": "2018-12-21",
+  "time": "23:51",
+  "rocket": "Long March 11",
+  "payload": "Hongyun 1",
+  "launchsite": "Jiuquan",
+  "description": "A Chinese Long March 11 rocket launched a prototype tech demo satellite for the planned Hongyun broadband network.",
+  "tweetID": -1
+}, {
+  "date": "2018-12-07",
+  "time": "18:23",
+  "rocket": "Long March 3B",
+  "payload": "Chang’e 4",
+  "launchsite": "Xichang",
+  "description": "A Chinese Long March 3B rocket launched the Chang’e 4 mission to attempt the first robotic landing on the far side of the moon. Chang’e 4 consists of a stationary lander and a mobile rover.",
+  "tweetID": -1
+}, {
+  "date": "2018-12-07",
+  "time": "04:12",
+  "rocket": "Long March 2D",
+  "payload": "SaudiSat 5A & 5B",
+  "launchsite": "Jiuquan",
+  "description": "A Chinese Long March 2D rocket launched the SaudiSat 5A and 5B Earth observation satellites for Saudi Arabia’s King Abdulaziz City for Science and Technology, along with 10 secondary payloads for Chinese companies.",
+  "tweetID": -1
+}, {
+  "date": "2018-11-19",
+  "time": "23:40",
+  "rocket": "Long March 2D",
+  "payload": "Shiyan 6",
+  "launchsite": "Jiuquan",
+  "description": "A Chinese Long March 2D rocket launched the Shiyan 6 experimental demo satellite and four secondary payloads.",
+  "tweetID": -1
+}, {
+  "date": "2018-11-18",
+  "time": "18:07",
+  "rocket": "Long March 3B",
+  "payload": "Beidou",
+  "launchsite": "Xichang",
+  "description": "A Chinese Long March 3B rocket with a Yuanzheng upper stage launched two satellites for the country’s Beidou navigation network into Medium Earth Orbit.",
+  "tweetID": -1
+}, {
+  "date": "2018-11-01",
+  "time": "15:57",
+  "rocket": "Long March 3B",
+  "payload": "Beidou",
+  "launchsite": "Xichang",
+  "description": "A Chinese Long March 3B rocket launched a satellite for the country’s Beidou navigation network toward geostationary orbit.",
+  "tweetID": -1
+}, {
+  "date": "2018-10-29",
+  "time": "00:43",
+  "rocket": "Long March 2C",
+  "payload": "CFOSAT",
+  "launchsite": "Jiuquan",
+  "description": "A Chinese Long March 2C rocket launched the China-France Oceanography Satellite, or CFOSAT. CFOSAT will study ocean surface winds and waves. These data will enable more reliable sea-state forecasts and yield new insights into ocean-atmosphere interactions. Delayed from September.",
+  "tweetID": -1
+}, {
+  "date": "2018-10-27",
+  "time": "08:00",
+  "rocket": "Zhuque 1",
+  "payload": "Weilai 1",
+  "launchsite": "Jiuquan",
+  "description": "A Zhuque 1 rocket developed by the Chinese private launch company LandSpace lifted off on its inaugural flight carrying the Weilai 1 microsatellite for China Central Television. But the rocket failed to place the spacecraft into orbit.",
+  "tweetID": -1
+}, {
+  "date": "2018-10-24",
+  "time": "22:57",
+  "rocket": "Long March 4B",
+  "payload": "Haiyang 2B",
+  "launchsite": "Taiyuan",
+  "description": "A Chinese Long March 4B rocket launched the Haiyang 2B oceanography satellite.",
+  "tweetID": -1
+}, {
+  "date": "2018-10-15",
+  "time": "04:23",
+  "rocket": "Long March 3B",
+  "payload": "Beidou",
+  "launchsite": "Xichang",
+  "description": "A Chinese Long March 3B rocket with a Yuanzheng upper stage launched two satellites for the country’s Beidou navigation network into Medium Earth Orbit.",
+  "tweetID": -1
+}, {
+  "date": "2018-10-09",
+  "time": "02:43",
+  "rocket": "Long March 2C",
+  "payload": "Yaogan 32-01 & 32-02",
+  "launchsite": "Jiuquan",
+  "description": "A Chinese Long March 2C rocket with a Yuanzheng 1S upper stage launched the Yaogan 32-01 and 32-02 military reconnaissance satellites.",
+  "tweetID": -1
+}, {
+  "date": "2018-09-29",
+  "time": "04:13",
+  "rocket": "Kuaizhou 1A",
+  "payload": "Centispace-1-S1",
+  "launchsite": "Jiuquan",
+  "description": "A Chinese Kuaizhou 1A rocket launched the Centispace-1-S1 satellite, a technology demonstrator for a space-based network in development by Beijing Future Navigation Technology Co. Ltd. to augment satellite navigation services.",
+  "tweetID": -1
+}, {
+  "date": "2018-09-19",
+  "time": "14:07",
+  "rocket": "Long March 3B",
+  "payload": "Beidou",
+  "launchsite": "Xichang",
+  "description": "A Chinese Long March 3B rocket with a Yuanzheng upper stage launched two satellites for the country’s Beidou navigation network into Medium Earth Orbit.",
+  "tweetID": -1
+}, {
+  "date": "2018-09-07",
+  "time": "03:15",
+  "rocket": "Long March 2C",
+  "payload": "Haiyang 1C",
+  "launchsite": "Taiyuan",
+  "description": "A Chinese Long March 2C rocket launched the Haiyang 1C ocean observation satellite.",
+  "tweetID": -1
+}, {
+  "date": "2018-08-24",
+  "time": "23:52",
+  "rocket": "Long March 3B",
+  "payload": "Beidou",
+  "launchsite": "Xichang",
+  "description": "A Chinese Long March 3B rocket with a Yuanzheng upper stage launched two satellites for the country’s Beidou navigation network into Medium Earth Orbit.",
+  "tweetID": -1
+}, {
+  "date": "2018-07-31",
+  "time": "03:00",
+  "rocket": "Long March 4B",
+  "payload": "Gaofen 11",
+  "launchsite": "Taiyuan",
+  "description": "A Chinese Long March 4B rocket launched the Gaofen 11 Earth observation satellite.",
+  "tweetID": -1
+}, {
+  "date": "2018-07-29",
+  "time": "01:48",
+  "rocket": "Long March 3B",
+  "payload": "Beidou",
+  "launchsite": "Xichang",
+  "description": "A Chinese Long March 3B rocket with a Yuanzheng upper stage launched two satellites for the country’s Beidou navigation network into Medium Earth Orbit.",
+  "tweetID": -1
+}, {
+  "date": "2018-07-09",
+  "time": "20:58",
+  "rocket": "Long March 3A",
+  "payload": "Beidou",
+  "launchsite": "Xichang",
+  "description": "A Chinese Long March 3A rocket launched a satellite for the country’s Beidou navigation network into an inclined geostationary transfer orbit.",
+  "tweetID": -1
+}, {
+  "date": "2018-07-09",
+  "time": "03:56",
+  "rocket": "Long March 2C",
+  "payload": "PRSS 1",
+  "launchsite": "Jiuquan",
+  "description": "A Chinese Long March 2C rocket launched the Pakistan Remote Sensing Satellite, or PRSS 1, for SUPARCO, Pakistan’s national space agency. The PakTES 1A remote sensing satellite, developed in partnership by Pakistan and South Africa, also launched on this mission. Delayed from June.",
+  "tweetID": -1
+}, {
+  "date": "2018-06-27",
+  "time": "03:30",
+  "rocket": "Long March 2C",
+  "payload": "XJSW-A and B",
+  "launchsite": "Xichang",
+  "description": "A Chinese Long March 2C rocket launched two spacecraft two test inter-satellite network links and Earth observation technology.",
+  "tweetID": -1
+}, {
+  "date": "2018-06-05",
+  "time": "13:07",
+  "rocket": "Long March 3A",
+  "payload": "Fengyun 2H",
+  "launchsite": "Xichang",
+  "description": "A Chinese Long March 3A rocket launched the Fengyun 2H geostationary weather satellite.",
+  "tweetID": -1
+}, {
+  "date": "2018-06-02",
+  "time": "04:13",
+  "rocket": "Long March 2D",
+  "payload": "Gaofen 6",
+  "launchsite": "Jiuquan",
+  "description": "A Chinese Long March 2D rocket launched the Gaofen 6 Earth observation satellite and the experimental Luojia 1 remote sensing payload.",
+  "tweetID": -1
+}, {
+  "date": "2018-05-20",
+  "time": "21:28",
+  "rocket": "Long March 4C",
+  "payload": "Chang’e 4 Relay",
+  "launchsite": "Xichang",
+  "description": "A Chinese Long March 4C rocket launched a relay satellite toward the Earth-moon L2 Lagrange point to enable communications between Earth and the Chang’e 4 lunar lander and rover on the far side of the moon. Two Chinese microsatellites launched with the Chang’e 4 relay mission to conduct astronomical observations from deep space.",
+  "tweetID": -1
+}, {
+  "date": "2018-05-08",
+  "time": "18:28",
+  "rocket": "Long March 4C",
+  "payload": "Gaofen 5",
+  "launchsite": "Taiyuan",
+  "description": "A Chinese Long March 4C rocket launched the Gaofen 5 hyperspectral Earth-imaging satellite. Delayed from May 2.",
+  "tweetID": -1
+}, {
+  "date": "2018-05-03",
+  "time": "16:06",
+  "rocket": "Long March 3B",
+  "payload": "Apstar 6C",
+  "launchsite": "Xichang",
+  "description": "A Chinese Long March 3B rocket launched the Apstar 6C communications satellite. Apstar 6C will provide commercial video and direct-to-home broadcast, VSAT connectivity, cellular backhaul and mobile broadband services over the Asia-Pacific region for APT Satellite. Delayed from March 15 and April 21.",
+  "tweetID": -1
+}, {
+  "date": "2018-04-26",
+  "time": "04:42",
+  "rocket": "Long March 11",
+  "payload": "Zhuhai 1",
+  "launchsite": "Jiuquan",
+  "description": "A Chinese Long March 11 rocket launched five Zhuhai 1 remote sensing satellites for a commercial constellation of Earth-imaging craft for Zhuhai Orbita Aerospace Science and Technology Co.",
+  "tweetID": -1
+}, {
+  "date": "2018-04-10",
+  "time": "04:25",
+  "rocket": "Long March 4C",
+  "payload": "Yaogan 31",
+  "launchsite": "Jiuquan",
+  "description": "A Chinese Long March 4C rocket launched three Yaogan 31 military reconnaissance satellites. Delayed from March.",
+  "tweetID": -1
+}, {
+  "date": "2018-03-31",
+  "time": "03:22",
+  "rocket": "Long March 4C",
+  "payload": "Gaofen 1-02, 03 & 04",
+  "launchsite": "Taiyuan",
+  "description": "A Chinese Long March 4C rocket launched three Gaofen 1-series Earth observation satellites.",
+  "tweetID": -1
+}, {
+  "date": "2018-03-29",
+  "time": "17:56",
+  "rocket": "Long March 3B",
+  "payload": "Beidou",
+  "launchsite": "Xichang",
+  "description": "A Chinese Long March 3B rocket with a Yuanzheng upper stage launched two satellites for the country’s Beidou navigation network into Medium Earth Orbit.",
+  "tweetID": -1
+}, {
+  "date": "2018-03-17",
+  "time": "07:10",
+  "rocket": "Long March 2D",
+  "payload": "LKW-4",
+  "launchsite": "Jiuquan",
+  "description": "A Chinese Long March 2D rocket launched a secretive intelligence-gathering payload for the Chinese military. The name of the payload was announced as LKW-4 after the launch. Analysts believe it is a high-resolution military imaging satellite.",
+  "tweetID": -1
+}, {
+  "date": "2018-02-12",
+  "time": "05:03",
+  "rocket": "Long March 3B",
+  "payload": "Beidou",
+  "launchsite": "Xichang",
+  "description": "A Chinese Long March 3B rocket with a Yuanzheng upper stage launched two satellites for the country’s Beidou navigation network into Medium Earth Orbit. Delayed from Feb. 11.",
+  "tweetID": -1
+}, {
+  "date": "2018-02-02",
+  "time": "07:51",
+  "rocket": "Long March 2D",
+  "payload": "CSES",
+  "launchsite": "Jiuquan",
+  "description": "A Chinese Long March 2D rocket launched the China Seismo-Electromagnetic Satellite, also known as Zhangheng 1, and several secondary payloads. Zhangheng 1 is a Chinese-led mission developed in partnership with Italy to study how electromagnetic signals in Earth’s atmosphere and ionosphere could help predict earthquakes. Secondary payloads included the GomX-4A and GomX-4B CubeSats for the Danish Ministry of Defense and the European Space Agency, two ÑuSat Earth-imaging microsatellites for Satellogic of Argentina, and two Chinese CubeSats.",
+  "tweetID": -1
+}, {
+  "date": "2018-01-25",
+  "time": "05:39",
+  "rocket": "Long March 2C",
+  "payload": "Yaogan 30-04",
+  "launchsite": "Xichang",
+  "description": "A Chinese Long March 2C rocket launched with three Yaogan 30-04 surveillance satellites for the Chinese military and a secondary payload named Weina 1A.",
+  "tweetID": -1
+}, {
+  "date": "2018-01-19",
+  "time": "04:12",
+  "rocket": "Long March 11",
+  "payload": "Multi-Payload",
+  "launchsite": "Jiuquan",
+  "description": "A Chinese Long March 11 rocket launched six satellites, including two Jilin 1 video imaging satellites for Chang Guang Satellite Technology Co. Ltd. and KIPP, a testbed CubeSat for Canada’s Kepler Communications. The other payloads included commercial and research CubeSats for Chinese companies and institutions.",
+  "tweetID": -1
+}, {
+  "date": "2018-01-13",
+  "time": "07:10",
+  "rocket": "Long March 2D",
+  "payload": "LKW-3",
+  "launchsite": "Jiuquan",
+  "description": "A Chinese Long March 2D rocket launched a secretive intelligence-gathering payload for the Chinese military. The name of the payload was announced as LKW-3 after the launch. Analysts believe it is a high-resolution military imaging satellite.",
+  "tweetID": -1
+}, {
+  "date": "2018-01-11",
+  "time": "23:18",
+  "rocket": "Long March 3B",
+  "payload": "Beidou",
+  "launchsite": "Xichang",
+  "description": "A Chinese Long March 3B rocket with a Yuanzheng upper stage launched two satellites for the country’s Beidou navigation network into Medium Earth Orbit.",
+  "tweetID": -1
+}, {
+  "date": "2018-01-09",
+  "time": "03:24",
+  "rocket": "Long March 2D",
+  "payload": "Superview 1-03 and 04",
+  "launchsite": "Taiyuan",
+  "description": "A Chinese Long March 2D rocket launched two SuperView 1 Earth observation satellites for Beijing Space View Technology Co. Also named GaoJing, the satellites will provide sub-meter high-resolution images for civilian and commercial customers in China and internationally. Delayed from December.",
+  "tweetID": -1
+}, {
+  "date": "2017-12-25",
+  "time": "19:44",
+  "rocket": "Long March 2C",
+  "payload": "Yaogan 30-03",
+  "launchsite": "Xichang",
+  "description": "A Chinese Long March 2C rocket launched with three Yaogan 30-03 surveillance satellites for the Chinese military.",
+  "tweetID": -1
+}, {
+  "date": "2017-12-23",
+  "time": "04:14",
+  "rocket": "Long March 2D",
+  "payload": "LKW-2",
+  "launchsite": "Jiuquan",
+  "description": "A Chinese Long March 2D rocket launched a secretive intelligence-gathering payload for the Chinese military. The name of the payload was announced as LKW-2 after the launch. Analysts believe it is a high-resolution military imaging satellite.",
+  "tweetID": -1
+}, {
+  "date": "2017-12-10",
+  "time": "16:40",
+  "rocket": "Long March 3B",
+  "payload": "Alcomsat 1",
+  "launchsite": "Xichang",
+  "description": "A Chinese Long March 3B rocket launched with the Alcomsat 1 geostationary communications satellite for the government of Algeria.",
+  "tweetID": -1
+}, {
+  "date": "2017-12-03",
+  "time": "04:11",
+  "rocket": "Long March 2D",
+  "payload": "LKW-1",
+  "launchsite": "Jiuquan",
+  "description": "A Chinese Long March 2D rocket launched a secretive intelligence-gathering payload for the Chinese military. The name of the payload was announced as LKW-1 after the launch. Analysts believe it is a high-resolution military imaging satellite.",
+  "tweetID": -1
+}, {
+  "date": "2017-11-24",
+  "time": "18:10",
+  "rocket": "Long March 2C",
+  "payload": "Yaogan 30-02",
+  "launchsite": "Xichang",
+  "description": "A Chinese Long March 2C rocket launched with three Yaogan 30-02 surveillance satellites for the Chinese military.",
+  "tweetID": -1
+}, {
+  "date": "2017-11-21",
+  "time": "04:50",
+  "rocket": "Long March 6",
+  "payload": "Jilin 1",
+  "launchsite": "Taiyuan",
+  "description": "A Chinese Long March 6 rocket launched three Jilin 1 Earth observation microsatellites for Chang Guang Satellite Technology Co. Ltd.",
+  "tweetID": -1
+}, {
+  "date": "2017-11-14",
+  "time": "18:35",
+  "rocket": "Long March 4C",
+  "payload": "Fengyun 3D",
+  "launchsite": "Taiyuan",
+  "description": "A Chinese Long March 4C rocket launched the Fengyun 3D weather satellite into polar orbit.",
+  "tweetID": -1
+}, {
+  "date": "2017-11-05",
+  "time": "11:45",
+  "rocket": "Long March 3B",
+  "payload": "Beidou",
+  "launchsite": "Xichang",
+  "description": "A Chinese Long March 3B rocket launched two satellites for the country’s Beidou navigation network.",
+  "tweetID": -1
+}, {
+  "date": "2017-10-09",
+  "time": "04:13",
+  "rocket": "Long March 2D",
+  "payload": "VRSS 2",
+  "launchsite": "Jiuquan",
+  "description": "A Chinese Long March 2D rocket launched the second Venezuelan Remote Sensing Satellite, or VRSS 2. The Chinese-built satellite will collect imagery of Earth for the Venezuelan government for scientific research, national security and disaster response applications. Delayed from Sept. 6.",
+  "tweetID": -1
+}, {
+  "date": "2017-09-29",
+  "time": "04:21",
+  "rocket": "Long March 2C",
+  "payload": "Yaogan 30-01",
+  "launchsite": "Xichang",
+  "description": "A Chinese Long March 2C rocket launched three Yaogan 30-01 satellites for electromagnetic experiments.",
+  "tweetID": -1
+}, {
+  "date": "2017-07-02",
+  "time": "11:23",
+  "rocket": "Long March 5",
+  "payload": "Shijian 18",
+  "launchsite": "Wenchang",
+  "description": "A Chinese Long March 5 rocket failed in the launch of the Shijian 18 communications satellite. Shijian 18 was the first spacecraft based on the new DFH-5 communications satellite platform, a heavier, higher-power next-generation design. Delayed from June.",
+  "tweetID": -1
+}, {
+  "date": "2017-06-18",
+  "time": "16:11",
+  "rocket": "Long March 3B",
+  "payload": "Chinasat 9A",
+  "launchsite": "Xichang",
+  "description": "A Chinese Long March 3B rocket launched the Chinasat 9A communications satellite, but failed to place the payload into the proper orbit. Chinasat 9A is designed to provide direct-to-home television broadcast services over China, Hong Kong, Macau and Taiwan.",
+  "tweetID": -1
+}, {
+  "date": "2017-06-15",
+  "time": "03:00",
+  "rocket": "Long March 4B",
+  "payload": "HXMT",
+  "launchsite": "Jiuquan",
+  "description": "A Chinese Long March 4B rocket launched the Hard X-ray Modulation Telescope. The HXMT mission will conduct an all-sky survey with a suite of instruments designed to image the universe in the highest-energy X-rays, and study the formation and behavior of black holes and active galactic nuclei.",
+  "tweetID": -1
+}, {
+  "date": "2017-04-20",
+  "time": "11:41",
+  "rocket": "Long March 7",
+  "payload": "Tianzhou 1",
+  "launchsite": "Wenchang",
+  "description": "A Chinese Long March 7 rocket launched the Tianzhou 1 cargo freighter to demonstrate China’s capability to resupply and refuel the Tiangong 2 space lab and future space station.",
+  "tweetID": -1
+}, {
+  "date": "2017-04-12",
+  "time": "11:04",
+  "rocket": "Long March 3B",
+  "payload": "Shijian 13/Chinasat 16",
+  "launchsite": "Xichang",
+  "description": "A Chinese Long March 3B rocket launched the experimental Shijian 13 communications satellite. Shijian 13, also known as Chinasat 16, will demonstrate electric propulsion systems and test a high-throughput communications payload to provide Internet connectivity on airliners and high-speed trains.",
+  "tweetID": -1
+}, {
+  "date": "2017-03-02",
+  "time": "23:53",
+  "rocket": "KT-2",
+  "payload": "TK-1",
+  "launchsite": "Jiuquan",
+  "description": "A Chinese KT-2 rocket launched on its first mission with the TK-1 satellite, an experimental payload designed to test remote sensing and small spacecraft technologies.",
+  "tweetID": -1
+}, {
+  "date": "2017-01-09",
+  "time": "04:11",
+  "rocket": "Kuaizhou 1A",
+  "payload": "Multi-payload",
+  "launchsite": "Jiuquan",
+  "description": "A Chinese Kuaizhou 1A rocket launched with several Chinese spacecraft, including a Lingqiao Earth observation satellite to collect commercial high-resolution video imagery and two experimental CubeSats.",
+  "tweetID": -1
+}, {
+  "date": "2017-01-05",
+  "time": "15:18",
+  "rocket": "Long March 3B",
+  "payload": "TJS 2",
+  "launchsite": "Xichang",
+  "description": "A Chinese Long March 3B rocket launched the TJS 2 satellite, the second spacecraft in a series of Chinese demonstration missions to test broadcast communications technologies. Delayed from Dec. 30.",
+  "tweetID": -1
+}, {
+  "date": "2016-12-28",
+  "time": "03:23",
+  "rocket": "Long March 2D",
+  "payload": "SuperView 1",
+  "launchsite": "Taiyuan",
+  "description": "A Chinese Long March 2D rocket launched two SuperView 1 Earth observation satellites for Beijing Space View Technology Co. Also named GaoJing, the satellites will provide sub-meter high-resolution images for civilian and commercial customers in China and internationally. Delayed from Dec. 26.",
+  "tweetID": -1
+}, {
+  "date": "2016-12-21",
+  "time": "19:22",
+  "rocket": "Long March 2D",
+  "payload": "TanSat",
+  "launchsite": "Jiuquan",
+  "description": "A Chinese Long March 2D rocket launched the TanSat spacecraft to map the global distribution of carbon dioxide in Earth’s atmosphere and support efforts to reduce greenhouse gas emissions. Delayed from Dec. 19.",
+  "tweetID": -1
+}, {
+  "date": "2016-12-10",
+  "time": "16:11",
+  "rocket": "Long March 3B",
+  "payload": "Fengyun 4A",
+  "launchsite": "Xichang",
+  "description": "A Chinese Long March 3B rocket launched the Fengyun 4A geostationary weather satellite for the China Meteorological Administration. Fengyun 4A is the first satellite a new series of Chinese geostationary weather platforms designed to collect imagery of storm systems, atmospheric sounding measurements, lightning maps and observations of space weather phenomena.",
+  "tweetID": -1
+}, {
+  "date": "2016-11-22",
+  "time": "15:24",
+  "rocket": "Long March 3C",
+  "payload": "Tianlian 1-04",
+  "launchsite": "Xichang",
+  "description": "A Chinese Long March 3C rocket launched China's fourth Tianlian 1 data relay satellite.",
+  "tweetID": -1
+}, {
+  "date": "2016-11-11",
+  "time": "23:14",
+  "rocket": "Long March 2D",
+  "payload": "Yunhai 1",
+  "launchsite": "Jiuquan",
+  "description": "A Chinese Long March 2D rocket launched the Yunhai 1 weather satellite into polar orbit.",
+  "tweetID": -1
+}, {
+  "date": "2016-11-09",
+  "time": "23:42",
+  "rocket": "Long March 11",
+  "payload": "XPNAV 1",
+  "launchsite": "Jiuquan",
+  "description": "A Chinese Long March 11 rocket launched the X-ray Pulsar Navigation (XPNAV 1) satellite to test spacecraft navigation techniques using periodic X-ray emissions from pulsars.",
+  "tweetID": -1
+}, {
+  "date": "2016-11-03",
+  "time": "12:43",
+  "rocket": "Long March 5",
+  "payload": "Shijian 17",
+  "launchsite": "Wenchang",
+  "description": "A Chinese Long March 5 rocket launched on its inaugural flight from a new launch pad on Hainan Island. The heavy-lift rocket is among the world's most powerful boosters, and it will be used to launch components of China's planned space station and interplanetary missions. The maiden flight carried the experimental Shijian 17 satellite to geostationary orbit.",
+  "tweetID": -1
+}, {
+  "date": "2016-10-16",
+  "time": "23:30",
+  "rocket": "Long March 2F",
+  "payload": "Shenzhou 11",
+  "launchsite": "Jiuquan",
+  "description": "A Chinese Long March 2F rocket launched the Shenzhou 11 spacecraft, a crewed mission to dock with the orbiting Tiangong 2 laboratory module. The flight is China’s sixth human space mission. Delayed from mid-2016.",
+  "tweetID": -1
+}, {
+  "date": "2016-09-15",
+  "time": "14:04",
+  "rocket": "Long March 2F",
+  "payload": "Tiangong 2",
+  "launchsite": "Jiuquan",
+  "description": "A Chinese Long March 2F rocket launched the Tiangong 2 mini-space station laboratory module designed for docking tests and crewed visits. Delayed from early 2016.",
+  "tweetID": -1
+}, {
+  "date": "2016-08-31",
+  "time": "18:55",
+  "rocket": "Long March 4C",
+  "payload": "Gaofen 10",
+  "launchsite": "Taiyuan",
+  "description": "A Chinese Long March 4C rocket failed during the launch of the Gaofen 10 Earth observation satellite.",
+  "tweetID": -1
+}, {
+  "date": "2016-08-15",
+  "time": "17:40",
+  "rocket": "Long March 2D",
+  "payload": "Quantum Science Satellite",
+  "launchsite": "Jiuquan",
+  "description": "A Chinese Long March 2D rocket launched with the Quantum Science Satellite, the world's first mission to test ultra-secure quantum communications in orbit. Delayed from July.",
+  "tweetID": -1
+}, {
+  "date": "2016-08-09",
+  "time": "22:55",
+  "rocket": "Long March 4C",
+  "payload": "Gaofen 3",
+  "launchsite": "Taiyuan",
+  "description": "A Chinese Long March 4C rocket launched the Gaofen 3 Earth observation satellite to collect all-weather high-resolution radar imagery for resource monitoring, environmental surveys and disaster response.",
+  "tweetID": -1
+}, {
+  "date": "2016-08-05",
+  "time": "16:22",
+  "rocket": "Long March 3B",
+  "payload": "Tiantong 1",
+  "launchsite": "Xichang",
+  "description": "A Chinese Long March 3B rocket launched the Tiantong 1 mobile communications satellite.",
+  "tweetID": -1
+}, {
+  "date": "2016-06-29",
+  "time": "03:21",
+  "rocket": "Long March 4B",
+  "payload": "Shijian 16",
+  "launchsite": "Jiuquan",
+  "description": "A Chinese Long March 4B rocket launched a Shijian 16 electronic surveillance satellite for the Chinese government.",
+  "tweetID": -1
+}, {
+  "date": "2016-06-25",
+  "time": "12:00",
+  "rocket": "Long March 7",
+  "payload": "Maiden Flight",
+  "launchsite": "Wenchang",
+  "description": "A Chinese Long March 7 rocket launched on its first flight with a re-entry capsule to demonstrate technologies for China’s next-generation human-rated spacecraft. The launch also marked the first mission from China’s new Wenchang Satellite Launch Center on Hainan Island. Moved forward from June 26.",
+  "tweetID": -1
+}, {
+  "date": "2016-06-12",
+  "time": "15:30",
+  "rocket": "Long March 3C",
+  "payload": "Beidou",
+  "launchsite": "Xichang",
+  "description": "A Chinese Long March 3C rocket will launch a Beidou navigation satellite into orbit for the Chinese government.",
+  "tweetID": -1
+}, {
+  "date": "2016-05-30",
+  "time": "03:17",
+  "rocket": "Long March 4B",
+  "payload": "Ziyuan 3-2",
+  "launchsite": "Taiyuan",
+  "description": "A Chinese Long March 4B rocket launched the second Ziyuan 3 land survey satellite and the ÑuSat 1 and ÑuSat 2 commercial high-resolution Earth observation microsatellites for Satellogic of Argentina.",
+  "tweetID": -1
+}, {
+  "date": "2016-05-15",
+  "time": "02:43",
+  "rocket": "Long March 2D",
+  "payload": "Yaogan 30",
+  "launchsite": "Jiuquan",
+  "description": "A Chinese Long March 2D rocket launched with the Yaogan 30 military reconnaissance satellite.",
+  "tweetID": -1
+}, {
+  "date": "2016-04-05",
+  "time": "17:38",
+  "rocket": "Long March 2D",
+  "payload": "Shijian 10",
+  "launchsite": "Jiuquan",
+  "description": "A Chinese Long March 2D rocket launched the Shijian 10 recoverable satellite with a package of physical science, materials science, and biological experiments. The spacecraft will return to Earth after several weeks in orbit.",
+  "tweetID": -1
+}, {
+  "date": "2016-03-29",
+  "time": "20:11",
+  "rocket": "Long March 3A",
+  "payload": "Beidou",
+  "launchsite": "Xichang",
+  "description": "A Chinese Long March 3A rocket launched a Beidou navigation satellite into orbit for the Chinese government.",
+  "tweetID": -1
+}, {
+  "date": "2016-02-01",
+  "time": "07:29",
+  "rocket": "Long March 3C",
+  "payload": "Beidou",
+  "launchsite": "Xichang",
+  "description": "A Chinese Long March 3C rocket launched a Beidou navigation satellite into orbit for the Chinese government. The rocket flew with a Yuanzheng upper stage.",
+  "tweetID": -1
+}, {
+  "date": "2016-01-15",
+  "time": "16:57",
+  "rocket": "Long March 3B",
+  "payload": "Belintersat 1",
+  "launchsite": "Xichang",
+  "description": "A Chinese Long March 3B rocket launched the Belintersat 1 communications satellite for the government of Belarus.",
+  "tweetID": -1
+}, {
+  "date": "2015-12-28",
+  "time": "16:04",
+  "rocket": "Long March 3B",
+  "payload": "Gaofen 4",
+  "launchsite": "Xichang",
+  "description": "A Chinese Long March 3B rocket launched the Gaofen 4 Earth observation satellite. Gaofen 4 will be positioned in geostationary orbit with optical and infrared staring imagers for continuous observations of China and surrounding regions.",
+  "tweetID": -1
+}, {
+  "date": "2015-12-17",
+  "time": "00:12",
+  "rocket": "Long March 2D",
+  "payload": "DAMPE",
+  "launchsite": "Jiuquan",
+  "description": "A Chinese Long March 2D rocket launched the Dark Matter Particle Explorer, a satellite designed to measure high-energy particles in space in search of dark matter.",
+  "tweetID": -1
+}, {
+  "date": "2015-12-09",
+  "time": "16:46",
+  "rocket": "Long March 3B",
+  "payload": "Chinasat 1C",
+  "launchsite": "Xichang",
+  "description": "A Chinese Long March 3B rocket launched the Chinasat 1C communications satellite.",
+  "tweetID": -1
+}, {
+  "date": "2015-11-26",
+  "time": "21:24",
+  "rocket": "Long March 4C",
+  "payload": "Yaogan 29",
+  "launchsite": "Taiyuan",
+  "description": "A Chinese Long March 4C rocket launched the Yaogan 29 reconnaissance satellite.",
+  "tweetID": -1
+}, {
+  "date": "2015-11-20",
+  "time": "16:07",
+  "rocket": "Long March 3B",
+  "payload": "LaoSat 1",
+  "launchsite": "Xichang",
+  "description": "A Chinese Long March 3B rocket launched the LaoSat 1 communications satellite. LaoSat 1 will provide telecommunications and broadcast services for Laos and Southeast Asia.",
+  "tweetID": -1
+}, {
+  "date": "2015-11-08",
+  "time": "07:06",
+  "rocket": "Long March 4B",
+  "payload": "Yaogan 28",
+  "launchsite": "Taiyuan",
+  "description": "A Chinese Long March 4B rocket launched the Yaogan 28 reconnaissance satellite.",
+  "tweetID": -1
+}, {
+  "date": "2015-11-03",
+  "time": "16:25",
+  "rocket": "Long March 3B",
+  "payload": "Chinasat 2C",
+  "launchsite": "Xichang",
+  "description": "A Chinese Long March 3B rocket launched the Chinasat 2C communications satellite.",
+  "tweetID": -1
+}, {
+  "date": "2015-10-26",
+  "time": "07:10",
+  "rocket": "Long March 2D",
+  "payload": "Tianhui 1C",
+  "launchsite": "Jiuquan",
+  "description": "A Chinese Long March 2D rocket launched the Tianhui 1C mapping satellite.",
+  "tweetID": -1
+}, {
+  "date": "2015-10-16",
+  "time": "16:16",
+  "rocket": "Long March 3B",
+  "payload": "Apstar 9",
+  "launchsite": "Xichang",
+  "description": "A Chinese Long March 3B rocket launched the Apstar 9 communications satellite. Apstar 9 will provide commercial video broadcast, VSAT connectivity and cellular backhaul services over the Asia-Pacific and Southeast Asia for APT Satellite.",
+  "tweetID": -1
+}, {
+  "date": "2015-10-07",
+  "time": "04:13",
+  "rocket": "Long March 2D",
+  "payload": "Jilin 1",
+  "launchsite": "Jiuquan",
+  "description": "A Chinese Long March 2D rocket launched the Jilin 1 mission, China's first commercial high-resolution Earth observation satellite. The mission consists of four satellites for high-definition imagery, video observations and technology demonstrations.",
+  "tweetID": -1
+}, {
+  "date": "2015-09-29",
+  "time": "23:13",
+  "rocket": "Long March 3B",
+  "payload": "Beidou",
+  "launchsite": "Xichang",
+  "description": "A Chinese Long March 3B rocket launched a Beidou navigation satellite into orbit for the Chinese government.",
+  "tweetID": -1
+}, {
+  "date": "2015-09-25",
+  "time": "01:41",
+  "rocket": "Long March 11",
+  "payload": "Multi-payload",
+  "launchsite": "Jiuquan",
+  "description": "A Chinese Long March 11 rocket launched multiple small satellites into orbit on its maiden flight. The Long March 11 is a solid-fueled, quick-responce launcher designed to place small satellites into low Earth orbit. The payloads included Pujiang 1 and three Tianwang CubeSats designed for technology demonstrations.",
+  "tweetID": -1
+}, {
+  "date": "2015-09-19",
+  "time": "23:01",
+  "rocket": "Long March 6",
+  "payload": "Multi-payload",
+  "launchsite": "Taiyuan",
+  "description": "A Chinese Long March 6 rocket launched with a cluster of small Chinese amateur and university research satellites. The flight marked the first launch of the Long March 6, a new rocket fueled by kerosene and liquid oxygen to replace China's previous generation of launch vehicles. Delayed from July 20.",
+  "tweetID": -1
+}, {
+  "date": "2015-09-14",
+  "time": "04:42",
+  "rocket": "Long March 2D",
+  "payload": "Gaofen 9",
+  "launchsite": "Jiuquan",
+  "description": "A Chinese Long March 2D rocket launched the Gaofen 9 remote sensing satellite.",
+  "tweetID": -1
+}, {
+  "date": "2015-09-12",
+  "time": "15:42",
+  "rocket": "Long March 3B",
+  "payload": "Experimental Comsat",
+  "launchsite": "Xichang",
+  "description": "A Chinese Long March 3B rocket launched an experimental communications satellite for the Chinese government. No other information about the payload was released.",
+  "tweetID": -1
+}, {
+  "date": "2015-08-27",
+  "time": "02:31",
+  "rocket": "Long March 4C",
+  "payload": "Yaogan 27",
+  "launchsite": "Taiyuan",
+  "description": "A Chinese Long March 4C rocket launched the Yaogan 22 reconnaissance satellite.",
+  "tweetID": -1
+}, {
+  "date": "2015-07-25",
+  "time": "12:29",
+  "rocket": "Long March 3B",
+  "payload": "Beidou",
+  "launchsite": "Xichang",
+  "description": "A Chinese Long March 3B rocket launched two Beidou navigation satellites into orbit for the Chinese government. The rocket flew with a Yuanzheng upper stage.",
+  "tweetID": -1
+}, {
+  "date": "2015-06-26",
+  "time": "06:22",
+  "rocket": "Long March 4B",
+  "payload": "Gaofen 8",
+  "launchsite": "Taiyuan",
+  "description": "A Chinese Long March 4B rocket launched with the Gaofen 8 high-resolution optical imaging satellite.",
+  "tweetID": -1
+}, {
+  "date": "2015-03-30",
+  "time": "13:52",
+  "rocket": "Long March 3C",
+  "payload": "Beidou",
+  "launchsite": "Xichang",
+  "description": "A Chinese Long March 3C rocket launched a Beidou navigation satellite into orbit for the Chinese government.",
+  "tweetID": -1
+}, {
+  "date": "2014-12-31",
+  "time": "01:02",
+  "rocket": "Long March 3A",
+  "payload": "Fengyun 2G",
+  "launchsite": "Xichang",
+  "description": "A Chinese Long March 3A rocket launched the Fengyun 2G geostationary weather satellite.",
+  "tweetID": -1
+}, {
+  "date": "2014-12-10",
+  "time": "19:33",
+  "rocket": "Long March 4C",
+  "payload": "Yaogan 25",
+  "launchsite": "Jiuquan",
+  "description": "A Chinese Long March 4C rocket launched the Yaogan 25 surveillance payload.",
+  "tweetID": -1
+}, {
+  "date": "2014-12-07",
+  "time": "03:26",
+  "rocket": "Long March 4B",
+  "payload": "CBERS 4",
+  "launchsite": "Taiyuan",
+  "description": "A Chinese Long March 4B rocket launched the CBERS 4 remote sensing satellite. CBERS 4 is the fourth China-Brazil Earth Resources Satellite for the collection of global imagery for environmental, urban planning and agricultural applications.",
+  "tweetID": -1
+}, {
+  "date": "2014-11-21",
+  "time": "06:37",
+  "rocket": "Kuaizhou",
+  "payload": "Kuaizhou 2",
+  "launchsite": "Jiuquan",
+  "description": "A Kuaizhou rocket launched the Kuaizhou 2 spacecraft into orbit.",
+  "tweetID": -1
+}, {
+  "date": "2014-11-20",
+  "time": "07:12",
+  "rocket": "Long March 2D",
+  "payload": "Yaogan 24",
+  "launchsite": "Jiuquan",
+  "description": "A Chinese Long March 2D rocket launched the Yaogan 24 reconnaissance satellite.",
+  "tweetID": -1
+}, {
+  "date": "2014-11-14",
+  "time": "18:53",
+  "rocket": "Long March 2C",
+  "payload": "Yaogan 23",
+  "launchsite": "Taiyuan",
+  "description": "A Chinese Long March 2C rocket launched the Yaogan 23 reconnaissance satellite.",
+  "tweetID": -1
+}, {
+  "date": "2014-10-27",
+  "time": "06:59",
+  "rocket": "Long March 2C",
+  "payload": "Shijian 11-08",
+  "launchsite": "Jiuquan",
+  "description": "A Chinese Long March 2C rocket launched the Shijian 11-08 satellite.",
+  "tweetID": -1
+}, {
+  "date": "2014-10-23",
+  "time": "18:00",
+  "rocket": "Long March 3C",
+  "payload": "Chang'e 5 Precursor",
+  "launchsite": "Xichang",
+  "description": "A Chinese Long March 3C rocket launched a mission to demonstrate re-entry technologies for the planned Chang'e 5 lunar sample return mission.",
+  "tweetID": -1
+}, {
+  "date": "2014-10-20",
+  "time": "06:31",
+  "rocket": "Long March 4C",
+  "payload": "Yaogan 22",
+  "launchsite": "Taiyuan",
+  "description": "A Chinese Long March 4C rocket launched the Yaogan 22 reconnaissance satellite.",
+  "tweetID": -1
+}, {
+  "date": "2014-09-28",
+  "time": "05:13",
+  "rocket": "Long March 2C",
+  "payload": "Shijian 11-07",
+  "launchsite": "Jiuquan",
+  "description": "A Chinese Long March 2C rocket launched with the experimental Shijian 11-07 satellite.",
+  "tweetID": -1
+}, {
+  "date": "2014-09-08",
+  "time": "03:22",
+  "rocket": "Long March 4B",
+  "payload": "Yaogan 21",
+  "launchsite": "Taiyuan",
+  "description": "A Chinese Long March 4B rocket launched the Yaogan 21 remote sensing satellite.",
+  "tweetID": -1
+}, {
+  "date": "2014-09-04",
+  "time": "00:15",
+  "rocket": "Long March 2D",
+  "payload": "Chuangxin 1-04",
+  "launchsite": "Jiuquan",
+  "description": "A Chinese Long March 2D rocket launched the Chuangxin 1-04 data relay satellite and a co-passenger designed to conduct multimedia technological experiments.",
+  "tweetID": -1
+}, {
+  "date": "2014-08-19",
+  "time": "03:15",
+  "rocket": "Long March 4B",
+  "payload": "Gaofen 2",
+  "launchsite": "Taiyuan",
+  "description": "A Chinese Long March 4B rocket launched the Gaofen 2 high-resolution remote sensing satellite. Gaofen 2 will collect high-resolution images of Earth's surface for research and civil government applications. The main users of the satellite are the Chinese Ministry of Land and Resources, the Chinese Ministry of Agriculture, and the Chinese Ministry of Environmental Protection. Delayed from December.",
+  "tweetID": -1
+}, {
+  "date": "2014-08-09",
+  "time": "05:45",
+  "rocket": "Long March 4C",
+  "payload": "Yaogan 20",
+  "launchsite": "Jiuquan",
+  "description": "A Chinese Long March 4C rocket launched the Yaogan 20 payload for the Chinese military.",
+  "tweetID": -1
+}, {
+  "date": "2014-03-31",
+  "time": "02:46",
+  "rocket": "Long March 2C",
+  "payload": "Shijian 11-06",
+  "launchsite": "Jiuquan",
+  "description": "A Chinese Long March 2C rocket launched with the experimental Shijian 11-06 satellite.",
+  "tweetID": -1
+}, {
+  "date": "2013-12-20",
+  "time": "16:42",
+  "rocket": "Long March 3B",
+  "payload": "Tupac Katari",
+  "launchsite": "Xichang",
+  "description": "A Chinese Long March 3B/E rocket launched the Tupac Katari communications satellite for the government of Bolivia.",
+  "tweetID": -1
+}, {
+  "date": "2013-12-09",
+  "time": "03:26",
+  "rocket": "Long March 4B",
+  "payload": "CBERS 3",
+  "launchsite": "Taiyuan",
+  "description": "A Chinese Long March 4B rocket failed in the launch of the CBERS 3 remote sensing satellite. CBERS 3 was the third China-Brazil Earth Resources Satellite for the collection of global imagery for environmental, urban planning and agricultural applications. Delayed from December 2012, January, February and October. Moved forward from Dec. 27.",
+  "tweetID": -1
+}, {
+  "date": "2013-12-01",
+  "time": "17:30",
+  "rocket": "Long March 3B",
+  "payload": "Chang'e 3",
+  "launchsite": "Xichang",
+  "description": "A Long March 3B rocket launched the Chang'e 3 mission, China's third lunar probe and its first robotic lander and rover.",
+  "tweetID": -1
+}, {
+  "date": "2013-11-25",
+  "time": "02:12",
+  "rocket": "Long March 2D",
+  "payload": "Shiyan 5",
+  "launchsite": "Jiuquan",
+  "description": "A Chinese Long March 2D rocket launched the Shiyan 5 experimental satellite.",
+  "tweetID": -1
+}, {
+  "date": "2013-11-20",
+  "time": "03:31",
+  "rocket": "Long March 4C",
+  "payload": "Yaogan 19",
+  "launchsite": "Taiyuan",
+  "description": "A Chinese Long March 4C rocket launched the Yaogan 19 observation satellite.",
+  "tweetID": -1
+}, {
+  "date": "2013-10-29",
+  "time": "02:50",
+  "rocket": "Long March 2C",
+  "payload": "Yaogan 18",
+  "launchsite": "Taiyuan",
+  "description": "A Chinese Long March 2C rocket launched the Yaogan 18 observation satellite.",
+  "tweetID": -1
+}, {
+  "date": "2013-10-25",
+  "time": "03:50",
+  "rocket": "Long March 4B",
+  "payload": "Shijian 16",
+  "launchsite": "Jiuquan",
+  "description": "A Chinese Long March 4B rocket launched the Shijian 16 technology demonstration satellite.",
+  "tweetID": -1
+}, {
+  "date": "2013-09-25",
+  "time": "04:37",
+  "rocket": "Kuaizhou",
+  "payload": "Kuaizhou 1",
+  "launchsite": "Jiuquan",
+  "description": "A Chinese Kuaizhou rocket launched the Kuaizhou 1 satellite to monitor natural disasters. The satellite was likely integrated with the upper stage of the launch vehicle, which is designed for quick-reaction flights. The responsive launcher was making its first flight.",
+  "tweetID": -1
+}, {
+  "date": "2013-09-23",
+  "time": "03:07",
+  "rocket": "Long March 4C",
+  "payload": "Fengyun 3C",
+  "launchsite": "Taiyuan",
+  "description": "A Chinese Long March 4C rocket launched the Fengyun 3C polar-orbiting weather satellite.",
+  "tweetID": -1
+}, {
+  "date": "2013-09-01",
+  "time": "19:16",
+  "rocket": "Long March 4C",
+  "payload": "Yaogan 17",
+  "launchsite": "Jiuquan",
+  "description": "A Chinese Long March 4C rocket launched the Yaogan 17 payload for the Chinese military.",
+  "tweetID": -1
+}, {
+  "date": "2013-07-19",
+  "time": "23:37",
+  "rocket": "Long March 4C",
+  "payload": "Shijian 15",
+  "launchsite": "Jiuquan",
+  "description": "A Chinese Long March 4C rocket launched the Shijian 15 satellite for the Chinese military, the Shiyan 7 technology demonstration satellite, and the Chuangxin 3 secondary payload.",
+  "tweetID": -1
+}, {
+  "date": "2013-07-15",
+  "time": "09:27",
+  "rocket": "Long March 2C",
+  "payload": "Shijian 11",
+  "launchsite": "Jiuquan",
+  "description": "A Chinese Long March 2C rocket launched the Shijian 11-05 satellite. The satellite is the fifth Shijian 11 satellite, believed to by designed for missile warning applications.",
+  "tweetID": -1
+}, {
+  "date": "2013-06-11",
+  "time": "09:38",
+  "rocket": "Long March 2F",
+  "payload": "Shenzhou 10",
+  "launchsite": "Jiuquan",
+  "description": "A Long March 2F rocket launched the Shenzhou 10 spacecraft, a crewed mission to dock with the orbiting Tiangong 1 laboratory module. The flight is China's fifth human space mission.",
+  "tweetID": -1
+}, {
+  "date": "2013-05-01",
+  "time": "16:06",
+  "rocket": "Long March 3B",
+  "payload": "Chinasat 11",
+  "launchsite": "Xichang",
+  "description": "A Chinese Long March 3B rocket launched the Chinasat 11 communications satellite for the China Satellite Communications Corp. Chinasat 11 will provide broadcasting, broadband, and data transmission services over China, the Middle East, Africa, Australia, and the Asia-Pacific region.",
+  "tweetID": -1
+}, {
+  "date": "2013-04-26",
+  "time": "04:13",
+  "rocket": "Long March 2D",
+  "payload": "Gaofen 1",
+  "launchsite": "Jiuquan",
+  "description": "A Chinese Long March 2D rocket launched the Gaofen 1 high-resolution remote sensing satellite. Gaofen 1 will collect high-resolution images of Earth's surface for research and civil government applications. The main users of the satellite are the Chinese Ministry of Land and Resources, the Chinese Ministry of Agriculture, and the Chinese Ministry of Environmental Protection.",
+  "tweetID": -1
+}, {
+  "date": "2012-12-18",
+  "time": "16:13",
+  "rocket": "Long March 2D",
+  "payload": "Gokturk 2",
+  "launchsite": "Jiuquan",
+  "description": "A Chinese Long March 2D rocket launched the Gokturk 2 Earth imaging satellite for Turkey. Gokturk 2 will gather high-resolution images of Earth for civilian and military applications. Moved up from Dec. 19.",
+  "tweetID": -1
+}, {
+  "date": "2012-11-27",
+  "time": "10:13",
+  "rocket": "Long March 3B",
+  "payload": "Chinasat 12",
+  "launchsite": "Xichang",
+  "description": "A Chinese Long March 3B rocket launched the Chinasat 12 communications satellite for the China Satellite Communications Corp. Chinasat 12 will provide broadcasting, broadband, and data transmission services over China, the Middle East, Africa, and the Asia-Pacific region. Scrubbed on Nov. 22.",
+  "tweetID": -1
+}, {
+  "date": "2012-11-25",
+  "time": "04:06",
+  "rocket": "Long March 4C",
+  "payload": "Yaogan 16",
+  "launchsite": "Jiuquan",
+  "description": "A Chinese Long March 3C rocket launched the Yaogan 16 payload for the Chinese military.",
+  "tweetID": -1
+}, {
+  "date": "2012-11-18",
+  "time": "22:53",
+  "rocket": "Long March 2C",
+  "payload": "Huanjing 1C",
+  "launchsite": "Taiyuan",
+  "description": "A Chinese Long March 2C rocket launched the Huanjing 1C environmental satellite with a radar observation payload.",
+  "tweetID": -1
+}, {
+  "date": "2012-10-25",
+  "time": "15:33",
+  "rocket": "Long March 3C",
+  "payload": "Beidou",
+  "launchsite": "Xichang",
+  "description": "A Chinese Long March rocket launched a Beidou navigation satellite into geosynchronous transfer orbit for the Chinese government.",
+  "tweetID": -1
+}, {
+  "date": "2012-09-29",
+  "time": "04:12",
+  "rocket": "Long March 2D",
+  "payload": "VRSS 1",
+  "launchsite": "Jiuquan",
+  "description": "A Chinese Long March 2D rocket launched the first Venezuelan Remote Sensing Satellite (VRSS 1). Also named the Francisco de Miranda after a Venezuelan revolutionary, VRSS 1 is an Earth observation and remote sensing satellite built by China for the government of Venezuela.",
+  "tweetID": -1
+}, {
+  "date": "2012-09-18",
+  "time": "19:10",
+  "rocket": "Long March 3B",
+  "payload": "Beidou",
+  "launchsite": "Xichang",
+  "description": "A Chinese Long March 3B rocket launched two Beidou navigation satellites into medium Earth orbit for the Chinese government.",
+  "tweetID": -1
+}, {
+  "date": "2012-07-25",
+  "time": "15:43",
+  "rocket": "Long March 3C",
+  "payload": "Tianlian 1",
+  "launchsite": "Xichang",
+  "description": "A Long March 3C rocket launched a China's third Tianlian 1 data relay satellite.",
+  "tweetID": -1
+}, {
+  "date": "2012-06-16",
+  "time": "10:37",
+  "rocket": "Long March 2F",
+  "payload": "Shenzhou 9",
+  "launchsite": "Jiuquan",
+  "description": "A Long March 2F rocket launched the Shenzhou 9 spacecraft, a crewed mission to dock with the orbiting Tiangong 1 laboratory module. The flight is China's fourth human space mission.",
+  "tweetID": -1
+}, {
+  "date": "2012-05-29",
+  "time": "07:31",
+  "rocket": "Long March 4C",
+  "payload": "Yaogan 15",
+  "launchsite": "Taiyuan",
+  "description": "A Long March 4C rocket launched the Yaogan 15 military surveillance satellite.",
+  "tweetID": -1
+}, {
+  "date": "2012-05-26",
+  "time": "15:56",
+  "rocket": "Long March 3B",
+  "payload": "Chinasat 2A",
+  "launchsite": "Xichang",
+  "description": "A Long March 3B rocket launched the Chinasat 2A military communications satellite.",
+  "tweetID": -1
+}, {
+  "date": "2012-05-10",
+  "time": "07:06",
+  "rocket": "Long March 4B",
+  "payload": "Yaogan",
+  "launchsite": "Taiyuan",
+  "description": "A Long March 4B rocket launched the Yaogan 14 satellite for the Chinese military.",
+  "tweetID": -1
+}, {
+  "date": "2012-05-06",
+  "time": "07:10",
+  "rocket": "Long March 2D",
+  "payload": "Tianhui 1B",
+  "launchsite": "Jiuquan",
+  "description": "A Chinese Long March 2D rocket launched a Tianhui land survey and mapping satellite for the Chinese government.",
+  "tweetID": -1
+}, {
+  "date": "2012-04-29",
+  "time": "20:50",
+  "rocket": "Long March 3B",
+  "payload": "Beidou",
+  "launchsite": "Xichang",
+  "description": "A Chinese Long March rocket launched two Beidou navigation satellites for the Chinese government. It was the first tandem launch of two Beidou satellites on a single rocket.",
+  "tweetID": -1
+}, {
+  "date": "2012-03-31",
+  "time": "10:27",
+  "rocket": "Long March 3B",
+  "payload": "Apstar 7",
+  "launchsite": "Xichang",
+  "description": "A Chinese Long March 3B rocket launched the Apstar 7 communications satellite for APT Satellite Co. Ltd. of Hong Kong. The rocket flew in the Long March 3B/E configuration with an enlarged first stage and liquid-fueled strap-on boosters.",
+  "tweetID": -1
+}, {
+  "date": "2012-02-24",
+  "time": "16:12",
+  "rocket": "Long March 3C",
+  "payload": "Beidou",
+  "launchsite": "Xichang",
+  "description": "A Long March 3C rocket launched a Beidou navigation satellite for the Chinese government.",
+  "tweetID": -1
+}, {
+  "date": "2012-01-13",
+  "time": "00:56",
+  "rocket": "Long March 3A",
+  "payload": "Fengyun 2F",
+  "launchsite": "Xichang",
+  "description": "A Chinese Long March 3A rocket launched the Fengyun 2F geostationary weather satellite.",
+  "tweetID": -1
+}, {
+  "date": "2012-01-09",
+  "time": "03:17",
+  "rocket": "Long March 4B",
+  "payload": "Ziyuan 3",
+  "launchsite": "Taiyuan",
+  "description": "A Chinese Long March 4B rocket launched the Ziyuan 3 high-resolution remote sensing satellite. The mission also orbited the VesselSat 2 asset-tracking communications satellite for Orbcomm Inc.",
+  "tweetID": -1
+}, {
+  "date": "2011-12-22",
+  "time": "03:26",
+  "rocket": "Long March 4B",
+  "payload": "Ziyuan 1-2C",
+  "launchsite": "Taiyuan",
+  "description": "A Chinese Long March 4B rocket launched the Ziyuan 1-2C mapping satellite. The Ziyuan 1-2C carries a high-resolution camera for a variety of civil applications.",
+  "tweetID": -1
+}, {
+  "date": "2011-12-19",
+  "time": "16:41",
+  "rocket": "Long March 3B",
+  "payload": "Nigcomsat 1R",
+  "launchsite": "Xichang",
+  "description": "A Chinese Long March 3B rocket launched the Nigcomsat 1R satellite for Nigeria. Nigcomsat 1R will replace Nigcomsat 1, which failed due to an anomaly in a solar array in 2008. The rocket flew in the Long March 3B/E configuration with an enlarged first stage and liquid-fueled strap-on boosters.",
+  "tweetID": -1
+}, {
+  "date": "2011-12-01",
+  "time": "21:07",
+  "rocket": "Long March 3A",
+  "payload": "Beidou",
+  "launchsite": "Xichang",
+  "description": "A Long March 3A rocket launched a Beidou navigation satellite for the Chinese government.",
+  "tweetID": -1
+}, {
+  "date": "2011-11-29",
+  "time": "18:50",
+  "rocket": "Long March 2C",
+  "payload": "Yaogan 13",
+  "launchsite": "Taiyuan",
+  "description": "A Chinese Long March 2C rocket launched the Yaogan 13 reconnaissance satellite.",
+  "tweetID": -1
+}, {
+  "date": "2011-11-20",
+  "time": "00:15",
+  "rocket": "Long March 2D",
+  "payload": "Shiyan 4 & Chuangxin 3",
+  "launchsite": "Jiuquan",
+  "description": "A Chinese Long March 2D rocket launched the Shiyan 4 and Chuangxin 1-03 satellites. The Shiyan 4 satellite carries experimental technology for Earth observation and Chuangxin 1-03 will collect and transmit environmental data.",
+  "tweetID": -1
+}, {
+  "date": "2011-11-09",
+  "time": "03:21",
+  "rocket": "Long March 4B",
+  "payload": "Yaogan 12",
+  "launchsite": "Taiyuan",
+  "description": "A Chinese Long March 4B rocket launched the Yaogan 12 remote sensing satellite and the Tianxun 1 technology demonstration satellite.",
+  "tweetID": -1
+}, {
+  "date": "2011-10-31",
+  "time": "21:58",
+  "rocket": "Long March 2F",
+  "payload": "Shenzhou 8",
+  "launchsite": "Jiuquan",
+  "description": "A Chinese Long March 2F rocket launched Shenzhou 8 on an unmanned flight to conduct the country's first docking between two spacecraft in orbit. Shenzhou 8 will rendezvous and dock with the Tiangong 1 module launched in September 2011.",
+  "tweetID": -1
+}, {
+  "date": "2011-10-07",
+  "time": "08:20",
+  "rocket": "Long March 3B",
+  "payload": "W3C",
+  "launchsite": "Xichang",
+  "description": "A Chinese Long March 3B rocket will launch the W3C communications satellite for Eutelsat of France. W3C will support the development of digital television services for Eastern Europe, Africa and the Indian Ocean region.",
+  "tweetID": -1
+}, {
+  "date": "2011-09-29",
+  "time": "13:16",
+  "rocket": "Long March 2F",
+  "payload": "Tiangong 1",
+  "launchsite": "Jiuquan",
+  "description": "A Chinese Long March 2F rocket launched the Tiangong mini-space station laboratory module designed for docking tests and manned visits. Delayed from August and Sept. 27.",
+  "tweetID": -1
+}, {
+  "date": "2011-09-18",
+  "time": "16:33",
+  "rocket": "Long March 3B",
+  "payload": "Chinasat 1A",
+  "launchsite": "Xichang",
+  "description": "A Chinese Long March 3B rocket launched the Chinasat 1A military communications satellite.",
+  "tweetID": -1
+}, {
+  "date": "2011-08-18",
+  "time": "09:28",
+  "rocket": "Long March 2C",
+  "payload": "Shijian",
+  "launchsite": "Jiuquan",
+  "description": "A Chinese Long March 2C rocket failed in its attempt to launch a Shijian experimental satellite.",
+  "tweetID": -1
+}, {
+  "date": "2011-08-15",
+  "time": "22:57",
+  "rocket": "Long March 4B",
+  "payload": "Haiyang 2A",
+  "launchsite": "Taiyuan",
+  "description": "A Long March 4B rocket successfully launched China's Haiyang 2A ocean observation satellite to track winds and sea surface temperatures.",
+  "tweetID": -1
+}, {
+  "date": "2011-08-11",
+  "time": "16:15",
+  "rocket": "Long March 3B",
+  "payload": "PakSat 1R",
+  "launchsite": "Xichang",
+  "description": "A Long March 3B rocket successfully launched the PakSat 1R communications satellite for the government of Pakistan.",
+  "tweetID": -1
+}, {
+  "date": "2011-07-29",
+  "time": "07:42",
+  "rocket": "Long March 2C",
+  "payload": "Shijian",
+  "launchsite": "Jiuquan",
+  "description": "A Chinese Long March 2C rocket successfully launched a Shijian satellite to conduct scientific experiments in orbit.",
+  "tweetID": -1
+}, {
+  "date": "2011-07-26",
+  "time": "21:44",
+  "rocket": "Long March 3A",
+  "payload": "Beidou",
+  "launchsite": "Xichang",
+  "description": "A Long March 3A rocket launched a Beidou navigation satellite for the Chinese government.",
+  "tweetID": -1
+}, {
+  "date": "2011-07-11",
+  "time": "15:41",
+  "rocket": "Long March 3C",
+  "payload": "Tianlian 1",
+  "launchsite": "Xichang",
+  "description": "A Long March 3C rocket launched a China's second Tianlian 1 data relay satellite.",
+  "tweetID": -1
+}, {
+  "date": "2011-07-06",
+  "time": "04:28",
+  "rocket": "Long March 2C",
+  "payload": "Shijian",
+  "launchsite": "Jiuquan",
+  "description": "A Chinese Long March 2C rocket successfully launched a Shijian satellite to conduct scientific experiments in orbit.",
+  "tweetID": -1
+}, {
+  "date": "2011-06-20",
+  "time": "16:13",
+  "rocket": "Long March 3B",
+  "payload": "Chinasat 10",
+  "launchsite": "Xichang",
+  "description": "A Chinese Long March 3B rocket launched the Chinasat 10 communications satellite for China Satellite Communications Corp.",
+  "tweetID": -1
+}, {
+  "date": "2011-04-09",
+  "time": "20:47",
+  "rocket": "Long March 3A",
+  "payload": "Beidou",
+  "launchsite": "Xichang",
+  "description": "A Long March 3A rocket launched a Beidou navigation satellite for the Chinese government.",
+  "tweetID": -1
+}, {
+  "date": "2010-12-17",
+  "time": "20:20",
+  "rocket": "Long March 3A",
+  "payload": "Beidou",
+  "launchsite": "Xichang",
+  "description": "A Long March 3A rocket will launch a Beidou navigation satellite for the Chinese government.",
+  "tweetID": -1
+}, {
+  "date": "2010-11-24",
+  "time": "16:09",
+  "rocket": "Long March 3A",
+  "payload": "Chinasat 20A",
+  "launchsite": "Xichang",
+  "description": "A Chinese Long March 3A rocket launched the Chinasat 20A communications satellite.",
+  "tweetID": -1
+}, {
+  "date": "2010-11-04",
+  "time": "18:37",
+  "rocket": "Long March 4C",
+  "payload": "Fengyun 3B",
+  "launchsite": "Taiyuan",
+  "description": "A Chinese Long March 4C rocket launched the Fengyun 3B weather satellite into polar orbit.",
+  "tweetID": -1
+}, {
+  "date": "2010-10-31",
+  "time": "16:26",
+  "rocket": "Long March 3A",
+  "payload": "Beidou",
+  "launchsite": "Xichang",
+  "description": "A Chinese Long March 3A rocket launched a Beidou navigation satellite to geosynchronous orbit.",
+  "tweetID": -1
+}, {
+  "date": "2010-10-06",
+  "time": "00:49",
+  "rocket": "Long March 4B",
+  "payload": "Shijian",
+  "launchsite": "Taiyuan",
+  "description": "A Chinese Long March 4B rocket launched two Shijian research satellites.",
+  "tweetID": -1
+}, {
+  "date": "2010-10-01",
+  "time": "10:59",
+  "rocket": "Long March 3C",
+  "payload": "Chang'e 2",
+  "launchsite": "Xichang",
+  "description": "A Chinese Long March 3C rocket launched Chang'e 2, China's second lunar orbiter. The probe follows the mission of Chang'e 1, which surveyed the moon between 2007 and 2009.",
+  "tweetID": -1
+}, {
+  "date": "2010-09-22",
+  "time": "02:42",
+  "rocket": "Long March 2D",
+  "payload": "Yaogan",
+  "launchsite": "Jiuquan",
+  "description": "A Chinese Long March 2D rocket launched a Yaogan Earth observation satellite likely destined for military use.",
+  "tweetID": -1
+}, {
+  "date": "2010-09-04",
+  "time": "16:14",
+  "rocket": "Long March 3B",
+  "payload": "Chinasat 6A",
+  "launchsite": "Xichang",
+  "description": "A Chinese Long March 3B rocket launched the Chinasat 6A communications satellite.",
+  "tweetID": -1
+}, {
+  "date": "2010-08-24",
+  "time": "07:10",
+  "rocket": "Long March 2D",
+  "payload": "Tianhui 1",
+  "launchsite": "Jiuquan",
+  "description": "A Chinese Long March 2D rocket launched the Tianhui 1 mapping satellite.",
+  "tweetID": -1
+}, {
+  "date": "2010-08-09",
+  "time": "22:49",
+  "rocket": "Long March 4C",
+  "payload": "Yaogan",
+  "launchsite": "Taiyuan",
+  "description": "A Chinese Long March 4C rocket launched a Yaogan Earth observation satellite likely destined for military use.",
+  "tweetID": -1
+}, {
+  "date": "2010-07-31",
+  "time": "21:30",
+  "rocket": "Long March 3A",
+  "payload": "Beidou",
+  "launchsite": "Xichang",
+  "description": "A Chinese Long March 3A rocket launched a Beidou navigation satellite for the Chinese government.",
+  "tweetID": -1
+}, {
+  "date": "2010-06-15",
+  "time": "01:39",
+  "rocket": "Long March 2D",
+  "payload": "Shijian 12",
+  "launchsite": "Jiuquan",
+  "description": "A Chinese Long March 2D rocket launched the Shijian 12 research satellite into orbit to conduct various technology and environmental experiments.",
+  "tweetID": -1
+}, {
+  "date": "2010-06-02",
+  "time": "15:53",
+  "rocket": "Long March 3C",
+  "payload": "Beidou",
+  "launchsite": "Xichang",
+  "description": "A Chinese Long March 3C rocket launched a navigation satellite for the Beidou satellite navigation system.",
+  "tweetID": -1
+}, {
+  "date": "2010-03-05",
+  "time": "04:55",
+  "rocket": "Long March 4C",
+  "payload": "Yaogan",
+  "launchsite": "Jiuquan",
+  "description": "A Chinese Long March 4C rocket launched a Yaogan Earth observation satellite likely destined for military use.",
+  "tweetID": -1
+}, {
+  "date": "2010-01-16",
+  "time": "16:12",
+  "rocket": "Long March 3C",
+  "payload": "Beidou",
+  "launchsite": "Xichang",
+  "description": "A Chinese Long March 3C rocket launched the third Beidou navigation satellite for the Chinese government.",
+  "tweetID": -1
+}, {
+  "date": "2009-12-09",
+  "time": "08:42",
+  "rocket": "Long March 2D",
+  "payload": "Yaogan 7",
+  "launchsite": "Jiuquan",
+  "description": "A Chinese Long March 2D rocket launched the Yaogan 7 satellite into Earth orbit. State media reports the satellite will conduct scientific remote sensing, but it is more likely a military optical spy satellite.",
+  "tweetID": -1
+}, {
+  "date": "2009-11-12",
+  "time": "02:45",
+  "rocket": "Long March 2C",
+  "payload": "Shijian",
+  "launchsite": "Jiuquan",
+  "description": "A Chinese Long March 2C rocket launched the Shijian 11-01 satellite into Earth orbit. State media reports the satellite will conduct scientific and engineering experiments.",
+  "tweetID": -1
+}, {
+  "date": "2009-08-31",
+  "time": "09:28",
+  "rocket": "Long March 3B",
+  "payload": "Palapa D1",
+  "launchsite": "Xichang",
+  "description": "A Chinese Long March 3B rocket failed to launch the Palapa D1 communications satellite into the correct orbit for Indosat of Indonesia. Palapa D1 was built to provide coverage of Indonesia, Asia, the Middle East and Australia.",
+  "tweetID": -1
+}, {
+  "date": "2008-12-23",
+  "time": "00:54",
+  "rocket": "Long March 3A",
+  "payload": "Feng Yun 2E",
+  "launchsite": "Xichang",
+  "description": "The Long March 3A rocket launched the Feng Yun 2E spacecraft, which will join a fleet of geostationary weather satellites operated by the China Meteorological Administration.",
+  "tweetID": -1
+}, {
+  "date": "2008-12-15",
+  "time": "03:22",
+  "rocket": "Long March 4B",
+  "payload": "Yaogan 5",
+  "launchsite": "Taiyuan",
+  "description": "A Chinese Long March 4B rocket launched the country's Yaogan 5 satellite for Earth observations.",
+  "tweetID": -1
+}, {
+  "date": "2008-12-01",
+  "time": "04:42",
+  "rocket": "Long March 4B",
+  "payload": "Yaogan 4",
+  "launchsite": "Jiuquan",
+  "description": "A Chinese Long March 2D rocket launched the country's Yaogan 4 satellite for Earth observations.",
+  "tweetID": -1
+}, {
+  "date": "2008-11-05",
+  "time": "00:15",
+  "rocket": "Long March 2D",
+  "payload": "Shiyan 3 & Chuangxin 1-02",
+  "launchsite": "Jiuquan",
+  "description": "A Chinese Long March 2D rocket launched the country's Shiyan 3 and Chuangxin 1-02 satellites.",
+  "tweetID": -1
+}, {
+  "date": "2008-10-30",
+  "time": "16:53",
+  "rocket": "Long March 3B",
+  "payload": "VENESAT 1",
+  "launchsite": "Xichang",
+  "description": "A Chinese Long March 3B rocket launched the VENESAT 1 communications satellite for Venezuela.",
+  "tweetID": -1
+}, {
+  "date": "2008-09-25",
+  "time": "13:10",
+  "rocket": "Long March 2F",
+  "payload": "Shenzhou 7",
+  "launchsite": "Jiuquan",
+  "description": "A Chinese Long March 2F rocket launched the country's third human spaceflight. The Shenzhou spacecraft capsule made its seventh flight after a series of unmanned test missions and the historic first two manned launches. Moved up from October.",
+  "tweetID": -1
+}, {
+  "date": "2008-09-06",
+  "time": "03:25",
+  "rocket": "Long March 2C",
+  "payload": "Huan Jing",
+  "launchsite": "Taiyuan",
+  "description": "A Chinese Long March 2C rocket launched two Huan Jing satellites for Earth observations and environmental monitoring. Delayed from August.",
+  "tweetID": -1
+}, {
+  "date": "2008-06-09",
+  "time": "12:15",
+  "rocket": "Long March 3B",
+  "payload": "Chinasat 9",
+  "launchsite": "Xichang",
+  "description": "The Long March 3B rocket launched the Chinasat 9 spacecraft. The direct-to-home television broadcasting satellite will provide communications services to homes and businesses across China. The high-power spacecraft was built by Thales Alenia Space of France.",
+  "tweetID": -1
+}, {
+  "date": "2008-04-25",
+  "time": "15:35",
+  "rocket": "Long March 3C",
+  "payload": "Tianlian 1",
+  "launchsite": "Xichang",
+  "description": "A Chinese Long March 3C launched the Tianlian 1 satellite, a data relay spacecraft to serve as a communications link between ground controllers and the country's next human space mission.",
+  "tweetID": -1
+}, {
+  "date": "2007-10-24",
+  "time": "10:05",
+  "rocket": "Long March 3A",
+  "payload": "Chang'e 1",
+  "launchsite": "Xichang",
+  "description": "A Chinese Long March 3A rocket launched Chang'e 1, China's first mission to the moon. The probe created three-dimensional maps of the moon and chart mineral deposits on the lunar surface, according to Chinese news reports.",
+  "tweetID": -1
+}, {
+  "date": "2007-09-19",
+  "time": "03:26",
+  "rocket": "Long March 4B",
+  "payload": "CBERS 2B",
+  "launchsite": "Taiyuan",
+  "description": "The Chinese Long March 4B rocket launched the third China-Brazil Earth Resources Satellite, which will conduct remote sensing observations for both nations for at least two years.",
+  "tweetID": -1
+}, {
+  "date": "2007-07-05",
+  "time": "12:08",
+  "rocket": "Long March 3B",
+  "payload": "Chinasat 6B",
+  "launchsite": "Xichang",
+  "description": "A Chinese Long March 3B rocket launched the Chinasat 6B satellite for China Satellite Communications Corp. Chinasat 6B will provide television broadcast services for up to 15 years.",
+  "tweetID": -1
+}, {
+  "date": "2007-05-13",
+  "time": "16:01",
+  "rocket": "Long March 3B",
+  "payload": "Nigcomsat 1",
+  "launchsite": "Xichang",
+  "description": "A Chinese Long March 3B rocket launched the Nigcomsat 1 telecommunications spacecraft. The Nigerian communications satellite was designed to cover western Africa.",
+  "tweetID": -1
+}, {
+  "date": "2007-04-13",
+  "time": "20:11",
+  "rocket": "Long March 3A",
+  "payload": "Beidou",
+  "launchsite": "Xichang",
+  "description": "A Chinese Long March 3A rocket launched a Beidou satellite for the nation's Compass space-based navigation system.",
+  "tweetID": -1
+}, {
+  "date": "2007-04-11",
+  "time": "03:27",
+  "rocket": "Long March 2C",
+  "payload": "Haiyang 1B",
+  "launchsite": "Taiyuan",
+  "description": "A Chinese Long March 2C rocket launched the Haiyang 1B spacecraft. It is China's second oceanographic satellite.",
+  "tweetID": -1
+}, {
+  "date": "2006-09-10",
+  "time": "",
+  "rocket": "Long March 2C",
+  "payload": "Shijian 8",
+  "launchsite": "Jiuquan",
+  "description": "The Chinese Long March 2C rocket launched the country's Shijian-8 recoverable science spacecraft loaded with at least 2,000 types of seed samples. The craft is designed to orbit for two weeks and then return to Earth.",
+  "tweetID": -1
+}, {
+  "date": "2005-10-12",
+  "time": "01:00",
+  "rocket": "CZ-2F",
+  "payload": "Shenzhou 6",
+  "launchsite": "Jiuquan",
+  "description": "A Chinese Long March rocket launched the country's second manned spaceflight. The Shenzhou spacecraft capsule made its sixth flight after a series of unmanned test missions and the historic first manned launch in 2003. Moved up 24 hours.",
+  "tweetID": -1
+}, {
+  "date": "2005-04-12",
+  "time": "12:00",
+  "rocket": "Long March 3B",
+  "payload": "Apstar 6",
+  "launchsite": "Xichang",
+  "description": "A Chinese Long March 3B rocket launched the Apstar 6 telecommunications satellite to cover the Asia-Pacific region.",
+  "tweetID": -1
+}, {
+  "date": "2004-07-25",
+  "time": "07:05",
+  "rocket": "Long March 2C",
+  "payload": "Double Star 2",
+  "launchsite": "Xichang",
+  "description": "The Chinese Long March 2C rocket launched the second of two Double Star satellites to study Earth's magnetosphere. The Double Star Program was a joint effort between the European Space Agency and the Chinese National Space Administration. One Double Star spacecraft was placed into an equatorial orbit while the other went into polar orbit. Delayed from June and July 20. Moved up from July 26.",
+  "tweetID": -1
+}, {
+  "date": "2004-04-18",
+  "time": "15:59",
+  "rocket": "Long March 2C",
+  "payload": "Shiyan 1 & Naxing 1",
+  "launchsite": "Xichang",
+  "description": "A Chinese Long March 2C rocket launched the experimental Shiyan 1 and Naxing 1 satellites into polar orbit.",
+  "tweetID": -1
+}]

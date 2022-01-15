@@ -1,0 +1,37 @@
+[{
+  "date": "2021-09-TBA",
+  "time": "",
+  "rocket": "Long March 7",
+  "payload": "Tianzhou 3",
+  "launchsite": "Wenchang",
+  "description": "A Chinese Long March 7 will launch the Tianzhou 3 resupply ship to dock with the Chinese space station. The automated cargo craft is the second resupply freighter for the Chinese space station. ",
+  "tweetID": -1,
+  "notification": "🔔 NEXT LAUNCH - Tianzhou3 Cargo Mission, 2021-09-TBA"
+}, {
+  "date": "2021-10-16",
+  "time": "",
+  "rocket": "Long March 2F",
+  "payload": "Shenzhou13",
+  "launchsite": "Jiuquan",
+  "description": "A Chinese Long March 2F rocket will launch the Shenzhou 13 spacecraft with three Chinese astronauts to rendezvous and dock with the Chinese space station in low Earth orbit. This is China’s eighth crewed space mission, and the second to the Chinese space station.",
+  "tweetID": 1435673392422731776,
+  "notification": "🔔 NEXT LAUNCH - Shenzhou13 Crewed Mission, 2021-10-16"
+}, {
+  "date": "2021-10-TBA",
+  "time": "",
+  "rocket": "CERES-1",
+  "payload": "Fangzhou-2F",
+  "launchsite": "Jiuquan",
+  "description": "A CERES-1 Rocket designed by private space company Galactic Energy will launch retrievable technology demonstration satellite designed by Beijing Space Ark Technology Co., Ltd.",
+  "tweetID": 1435719489912508418,
+  "notification": "🔔 NEXT LAUNCH - Commercial CERES-1, 2021-10-TBA"
+}, {
+  "date": "2022-01-TBA",
+  "time": "",
+  "rocket": "CERES-1",
+  "payload": "TBA",
+  "launchsite": "Jiuquan",
+  "description": "A CERES-1 Rocket designed by private space company Galactic Energy will launch, payload not yet annouced.",
+  "tweetID": 1435719489912508418,
+  "notification": "🔔 NEXT LAUNCH - Commercial CERES-1, 2022-01-TBA"
+}]

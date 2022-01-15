@@ -65,7 +65,7 @@ while True:
 #init gitt
     subprocess.call(["git", "pull"], shell = False)
     save_to_file(("Git Pulled"))
-#     sleep(5)
+    sleep(30)
 
 
     """

@@ -5,7 +5,7 @@ import os
 # print(Path(path).parent.name)
 
 PATH_OF_GIT_REPO = Path(os.getcwd()).parent.parent  # make sure .git folder is properly configured
-COMMIT_MESSAGE = 'auto update'
+COMMIT_MESSAGE = '"auto update"'
 
 # repo = git.Repo(os.getcwd())
 # files = repo.git.diff(None, name_only=True)

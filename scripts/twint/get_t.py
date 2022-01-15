@@ -6,12 +6,15 @@ from datetime import datetime
 import pandas as pd
 import re
 import json
-from git import Repo
-from pathlib import Path
+import subprocess
+
+
+# from git import Repo
+# from pathlib import Path
 # print(Path(path).parent.name)
 
-PATH_OF_GIT_REPO = Path(os.getcwd()).parent.parent  # make sure .git folder is properly configured
-COMMIT_MESSAGE = 'auto update'
+# PATH_OF_GIT_REPO = Path(os.getcwd()).parent.parent  # make sure .git folder is properly configured
+# COMMIT_MESSAGE = 'auto update'
 
 def dfToList(df):
     return list(df.T.to_dict().values())
@@ -28,22 +31,22 @@ def save_to_file(str):
     with open(r'../../../log.txt', 'a') as f:
         f.write(str + '\n')
 
-def git_pull():
-    try:
-        repo = Repo(PATH_OF_GIT_REPO)
-        repo.git.pull
-    except Exception as e:
-        save_to_file(str(e))  
+# def git_pull():
+#     try:
+#         repo = Repo(PATH_OF_GIT_REPO)
+#         repo.git.pull
+#     except Exception as e:
+#         save_to_file(str(e))  
         
-def git_push():
-    try:
-        repo = Repo(PATH_OF_GIT_REPO)
-        repo.git.add(all=True)
-        repo.index.commit(COMMIT_MESSAGE)
-        origin = repo.remote(name='origin')
-        origin.push()
-    except Exception as e:
-        save_to_file(str(e))    
+# def git_push():
+#     try:
+#         repo = Repo(PATH_OF_GIT_REPO)
+#         repo.git.add(all=True)
+#         repo.index.commit(COMMIT_MESSAGE)
+#         origin = repo.remote(name='origin')
+#         origin.push()
+#     except Exception as e:
+#         save_to_file(str(e))    
 
 # suppress = " >/dev/null 2>&1"
 
@@ -56,7 +59,11 @@ while True:
     save_to_file("-"*50)
     save_to_file((datetime.now().strftime("%d/%m/%Y %H:%M:%S")))
 #     os.system("git pull"+suppress)
-    git_pull()
+#     git_pull()
+
+
+#init gitt
+    subprocess.call(["git", "pull"], shell = False)
     save_to_file(("Git Pulled"))
 #     sleep(5)
 
@@ -141,26 +148,29 @@ while True:
     saveJSON(dfToList(df_Commercial), directory + 'commercial_updates.json')
     
     save_to_file("JSON saved")
-#     """
-#     git add --all
-#     """
+    """
+    git add --all
+    """
 #     os.system("git add --all"+suppress)
-#     save_to_file(("files added to git"))
-#     sleep(30)
-#     """
-#     git commit
-#     """
+    subprocess.call(["git", "add", "--all"], shell = False)
+    save_to_file(("files added to git"))
+    sleep(30)
+    """
+    git commit
+    """
 #     os.system('git commit -m "auto updates"'+suppress)
-#     save_to_file("files committed")
-#     sleep(30)
-#     """
-#     git push
-#     """
+    subprocess.call(["git", "commit", "-m", '"auto updates"'], shell = False)
+    save_to_file("files committed")
+    sleep(30)
+    """
+    git push
+    """
 #     os.system("git push"+suppress)
-#     save_to_file("files pushed")
-#     save_to_file("")
+    subprocess.call(["git", "push"], shell = False)
+    save_to_file("files pushed")
+    save_to_file("")
     
-    git_push()
+#     git_push()
     save_to_file("git pushed")
 
     sleep(1800)

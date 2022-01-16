@@ -14,7 +14,7 @@ def reshapeImg(directory, filename, thumbnail_dir, mywidth = 300, ):
     # except:
     #     print('File transform error')
 
-directory = '../images/yutu/'
+directory = '../images/space_tiangong/'
 file_list = os.listdir(directory)
 for ind, filename in enumerate(file_list):
     print(ind + 1, '/', len(file_list))

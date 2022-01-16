@@ -3,7 +3,7 @@ import os
 from shutil import copyfile
 
 # print('begin')
-directory = '../images/yutu/'
+directory = '../images/zhurong/'
 file_list = os.listdir(directory)
 for ind, filename in enumerate(file_list):
     print(ind + 1, '/', len(file_list), filename)

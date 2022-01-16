@@ -1,4 +1,28 @@
 [{
+  "date": "20220101",
+  "title": "Panorama of Mars surface around Zhurong Mars Rover.",
+  "href": "/images/zhurong/20220101-火面地貌.jpg",
+  "href_avatar": "/images/zhurong/thumbnails/20220101-火面地貌.jpg",
+  "href_compressed": "/images/zhurong/compressed/20220101-火面地貌.jpeg"
+}, {
+  "date": "20220101",
+  "title": "Ice around Martian North Pole, taken by Tianwen-1 orbiter.",
+  "href": "/images/zhurong/20220101-火星北极冰盖.jpg",
+  "href_avatar": "/images/zhurong/thumbnails/20220101-火星北极冰盖.jpg",
+  "href_compressed": "/images/zhurong/compressed/20220101-火星北极冰盖.jpeg"
+}, {
+  "date": "20220101",
+  "title": "\"Selfie\"-2 of Tianwen-1 orbiter taken by companion little satellite released by Tianwen in orbit. Data is transmitted back to Tianwen via Wifi.",
+  "href": "/images/zhurong/20220101-天问一号环绕起局部特写.jpg",
+  "href_avatar": "/images/zhurong/thumbnails/20220101-天问一号环绕起局部特写.jpg",
+  "href_compressed": "/images/zhurong/compressed/20220101-天问一号环绕起局部特写.jpeg"
+}, {
+  "date": "20220101",
+  "title": "\"Selfie\"-1 of Tianwen-1 orbiter taken by companion little satellite released by Tianwen in orbit. Data is transmitted back to Tianwen via Wifi.",
+  "href": "/images/zhurong/20220101-天问一号环绕器与火星合影.jpg",
+  "href_avatar": "/images/zhurong/thumbnails/20220101-天问一号环绕器与火星合影.jpg",
+  "href_compressed": "/images/zhurong/compressed/20220101-天问一号环绕器与火星合影.jpeg"
+}, {
   "date": "20210830",
   "title": "The front and back pictures of China's first successful Mars exploration mission gold and silver commemorative coins (from left to right are 150g gold coins, 8g gold coins, and 30g silver coins)",
   "href": "/images/zhurong/20210830-中国首次火星探测任务成功金银纪念币正背面图片(从左至右为150g金币、8g金币、30g银币).png",
@@ -136,6 +160,12 @@
   "href": "/images/zhurong/20210627-火星车行驶车辙图.jpg",
   "href_avatar": "/images/zhurong/thumbnails/20210627-火星车行驶车辙图.jpg",
   "href_compressed": "/images/zhurong/compressed/20210627-火星车行驶车辙图.jpeg"
+}, {
+  "date": "20210611",
+  "title": "\"Selfie\" of Zhurong Mars Rover, taken by WiFi camera released by Zhurong.",
+  "href": "/images/zhurong/20210611-巡视器.jpg",
+  "href_avatar": "/images/zhurong/thumbnails/20210611-巡视器.jpg",
+  "href_compressed": "/images/zhurong/compressed/20210611-巡视器.jpeg"
 }, {
   "date": "20210611",
   "title": "\"Chinese Imprint\" Map",

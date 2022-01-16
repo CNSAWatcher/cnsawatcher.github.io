@@ -173,6 +173,6 @@ while True:
     save_to_file("")
     
 #     git_push()
-    save_to_file("git pushed")
+#     save_to_file("git pushed")
 
     sleep(1800)

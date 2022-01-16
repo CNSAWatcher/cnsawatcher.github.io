@@ -1,10 +1,186 @@
 [{
+  "date": "2021-12-29",
+  "time": "16:43",
+  "rocket": "Long March 3B",
+  "payload": "TJSW-09",
+  "launchsite": "Xichang",
+  "description": "TJSW(通讯技术试验卫星)-09 communication satellite was successfully launched by #CZ3B rocket at Xichang Launch Center, Sichuan. This is the 405th launch of Long March rocket family.",
+  "tweetID": 1476250251816284160
+},{
+  "date": "2021-12-29",
+  "time": "11:13",
+  "rocket": "Long March 2D",
+  "payload": "Tianhui-4",
+  "launchsite": "Jiuquan",
+  "description": "Tianhui(天绘/HeavenMap)-4 stereo mapping satellite was successfully launched by CZ2D rocket at Jiuquan Launch Center, Inner Mongolia. This is the 404th launch of Long March rocket family.",
+  "tweetID": 1476239759617970185
+},{
+  "date": "2021-12-26",
+  "time": "03:11",
+  "rocket": "Long March 4C",
+  "payload": "Ziyuan-1-02E",
+  "launchsite": "Taiyuan",
+  "description": "Ziyuan(资源/Resource)-1-02E 5-m optical sensing satellite and 101 middle school mini-sat were successfully launched by CZ4C rocket at Taiyuan Launch Center, Shanxi.",
+  "tweetID": 1474080349915385866
+},{
+  "date": "2021-12-23",
+  "time": "10:12",
+  "rocket": "Long March 7A",
+  "payload": "Shiyan-12-01,02",
+  "launchsite": "Wenchang",
+  "description": "Shiyan(试验/Experiment)-12-01,02 satellites were successfully launched by CZ7A rocket at Wenchang Launch Center, Hainan through South China Sea. This is Long March rocket family’s 402th launch.",
+  "tweetID": 1474080349915385866
+},{
+  "date": "2021-12-15",
+  "time": "02:00",
+  "rocket": "Kuaizhou 1A",
+  "payload": "GeeSAT",
+  "launchsite": "Jiuquan",
+  "description": "GeeSAT commercial positioning constellation satellites were launched by #KZ1A rocket from Jiuquan Launch Center. Abnormal performance was detected during the flight. The cause is under investigation. This is CASIC's 1st failure in 2021.",
+  "tweetID": 1471159247568359429
+},{
+  "date": "2021-12-13",
+  "time": "16:09",
+  "rocket": "Long March 3B",
+  "payload": "Tianlian-2-02",
+  "launchsite": "Xichang",
+  "description": "Tianlian(天链/SkyLink)-2-02 data tracking and relay satellite was launched by CZ3B-Y82 rocket to orbit from Xichang Launch Center, Sichuan.",
+  "tweetID": 1470549172566859781
+},{
+  "date": "2021-12-10",
+  "time": "00:11",
+  "rocket": "Long March 4B",
+  "payload": "Shijian-6-05",
+  "launchsite": "Jiuquan",
+  "description": "Shijian(实践/Practice)-6-05 space environment detection satellite was launched by #CZ4B rocket to orbit at Jiuquan Launch Center, Inner Mongolia. This is also 400th launch of Long March rocket family.",
+  "tweetID": 1469213782945808387
+},{
+  "date": "2021-12-07",
+  "time": "04:12",
+  "rocket": "CERES1",
+  "payload": "5 satellites",
+  "launchsite": "Jiuquan",
+  "description": "GalacticEnergy(星河动力) launched 5 satellites (Golden Bauhinia 1-03. Golden Bauhinia 5, Tianjin Daxue 1, Lize 1, Baoyun)into SSO orbit with its #CERES1-Y2 rocket at Jiuquan Launch Center, Inner Mongolia. This is the first consecutive successful commercial launch in China",
+  "tweetID": 1468255958480605190
+},{
+  "date": "2021-11-26",
+  "time": "16:40",
+  "rocket": "Long March 3B",
+  "payload": "Zhongxing-1D",
+  "launchsite": "Xichang",
+  "description": "Zhongxing(中星/ChinaSat)-1D communication satellite was successfully launched by #CZ3B rocket at Xichang Launch Center, Sichuan. This is also 399th launch of Long March rocket family.",
+  "tweetID": 1464310739884249095
+},{
+  "date": "2021-11-24",
+  "time": "23:41",
+  "rocket": "Kuaizhou 1A",
+  "payload": "Shiyan-11",
+  "launchsite": "Jiuquan",
+  "description": "Shiyan(试验/Test)-11 satellite was successfully launched by #KZ1A rocket at Jiuquan Launch Center, Inner Mongolia. Kuaizhou(快舟/SpeedyVessel) is CASIC’s fast response rocket family.",
+  "tweetID": 1463685723291365383
+},{
+  "date": "2021-11-22",
+  "time": "23:45",
+  "rocket": "Long March 4C",
+  "payload": "Gaofen-3-02",
+  "launchsite": "Jiuquan",
+  "description": "Gaofen(高分/HighRes)-3-02 satellite was successfully launched by CZ4C rocket at Jiuquan Launch Center, Inner Mongolia. It’s also 398th flight of Long March rocket family.",
+  "tweetID": 1462970255471435781
+},{
+  "date": "2021-11-20",
+  "time": "01:51",
+  "rocket": "Long March 4B",
+  "payload": "Gaofen-11-03",
+  "launchsite": "Taiyuan",
+  "description": "Gaofen(高分/HighRes)-11-03 satellite was successfully launched by CZ4B rocket at Taiyuan Launch Center, Shanxi. It’s also 397th flight of Long March rocket family.",
+  "tweetID": 1461899599724040197
+},{
+  "date": "2021-11-06",
+  "time": "03:00",
+  "rocket": "Long March 2D",
+  "payload": "Yaogan-35-A,B,C",
+  "launchsite": "Xichang",
+  "description": "3 satellites Yaogan(遥感/RemoteSensing)-35-A,B,C were successfully launched by CZ2D rocket at Xichang Launch Center, Sichuan. It’s also 396th flight of Long March rocket family.",
+  "tweetID": 1456844250864308227
+},{
+  "date": "2021-11-05",
+  "time": "02:19",
+  "rocket": "Long March 6",
+  "payload": "SDGSAT-1/CASEarth",
+  "launchsite": "Taiyuan",
+  "description": "SDGSAT-1/CASEarth Earth observation satellite dedicated to measuring humanity’s impact on the natural environment (UN’s 2030 Agenda for Sustainable Development), was successfully launched by #CZ6 rocket at Taiyuan Launch Center, Shanxi. This is also the 395th flight of CZ Long March rocket family.",
+  "tweetID": 1456539807216189440
+},{
+  "date": "2021-11-03",
+  "time": "07:43",
+  "rocket": "Long March 2C",
+  "payload": "Yaogan-32-02",
+  "launchsite": "Jiuquan",
+  "description": "Yaogan(遥感/RemoteSensing)-32-02 satellite was successfully launched by #CZ2C rocket at Jiuquan Launch Center, Inner Mongolia. This is also the 394th flight of CZ Long March rocket family.",
+  "tweetID": 1456030688289988610
+},{
+  "date": "2021-10-27",
+  "time": "06:19",
+  "rocket": "Kuaizhou 1A",
+  "payload": "Jilin1-02F",
+  "launchsite": "Jiuquan",
+  "description": "Jilin1-02F HighRes satellite was successfully launched by #KZ1A rocket at Jiuquan Launch Center, Inner Mongolia. Kuaizhou快舟 is CASIC’s fast response rocket family.",
+  "tweetID": 1453298569247657996
+},{
+  "date": "2021-10-24",
+  "time": "01:27",
+  "rocket": "Long March 3B",
+  "payload": "Shijian 21",
+  "launchsite": "Xichang",
+  "description": "Shijian(实践)-21 satellite for verification of space debris mitigation technology was successfully launched by #CZ3B rocket at Xichang Launch Center, Sichuan.",
+  "tweetID": 1452195004579987467
+},{
+  "date": "2021-10-15",
+  "time": "16:23",
+  "rocket": "Long March 2F",
+  "payload": "Shenzhou 13",
+  "launchsite": "Jiuquan",
+  "description": "Three astronauts Zhai Zhigang, Wang Yaping, and Ye Guangfu are heading to Tiangong Space Station in ~6 hours after the launch of CZ2F rocket",
+  "tweetID": 1449051514413137937
+},{
+  "date": "2021-10-14",
+  "time": "10:51",
+  "rocket": "Long March 2D",
+  "payload": "CHASE/Xihe",
+  "launchsite": "Taiyuan",
+  "description": "At UTC 10:51 Oct 14, Chinese H-alpha Solar Explorer (CHASE, 羲和/Xihe) together with 10 other satellites were successfully launched by CZ2D rocket at Taiyuan Launch Center, Shanxi.",
+  "tweetID": 1448613231124221952
+},{
+  "date": "2021-09-27",
+  "time": "10:20",
+  "rocket": "Long March 3B",
+  "payload": "Shiyan-10",
+  "launchsite": "Xichang",
+  "description": "Shiyan-10 testing satellite was  launched by CZ3B rocket at Xichang Launch Center, Sichuan.",
+  "tweetID": 1442701836549566465
+},{
+  "date": "2021-09-27",
+  "time": "06:15",
+  "rocket": "Kuaizhou 1A",
+  "payload": "Jilin1-02D",
+  "launchsite": "Jiuquan",
+  "description": "Jilin1-02D High Resolution remote sensing satellite was successfully launched by KZ1A rocket at Jiuquan Launch Center, Inner Mingolia. Kuaizhou(快舟/FastShip) rocket series belong to CASIC.",
+  "tweetID": 1442402750839541761
+},{
+  "date": "2021-09-20",
+  "time": "07:10",
+  "rocket": "Long March 7",
+  "payload": "Tianzhou3",
+  "launchsite": "Wenchang",
+  "description": "Tianzhou3 cargo spacecraft lifts off at UTC 07:10 on Sept 20. It carries ~6 tons of goods to #Tiangong Space Station (#CSS).",
+  "tweetID": 1439897179968126979
+},{
   "date": "2021-09-09",
   "time": "11:50",
   "rocket": "Long March 3B",
   "payload": "Zhongxing-9B",
   "launchsite": "Xichang",
-  "description": "At 11:50 UTC September 9, Zhongxing(ChinaSat)-9B broadcast satellite was successfully launched by CZ3B(LM3B) rocket at Xichang Launch Center, Sichuan. It’s the 388th launch of Long March rocket family.",
+  "description": "Zhongxing(ChinaSat)-9B broadcast satellite was successfully launched by CZ3B(LM3B) rocket at Xichang Launch Center, Sichuan. It’s the 388th launch of Long March rocket family.",
   "tweetID": 1436008821776859136
 },{
   "date": "2021-09-06",
@@ -12,7 +188,7 @@
   "rocket": "Long March 4C",
   "payload": "Gaofen-5-02",
   "launchsite": "Taiyuan",
-  "description": "At 03:01 UTC September 7, Gaofen(HighResolution)-5-02 hyper spectral satellite was successfully launched by CZ4C(LM4C) rocket at Taiyuan Launch Center, Shanxi. It’s the 387th launch of Long March rocket family.",
+  "description": "Gaofen(HighResolution)-5-02 hyper spectral satellite was successfully launched by CZ4C(LM4C) rocket at Taiyuan Launch Center, Shanxi. It’s the 387th launch of Long March rocket family.",
   "tweetID": 1435088534130630659
 },{
   "date": "2021-08-24",

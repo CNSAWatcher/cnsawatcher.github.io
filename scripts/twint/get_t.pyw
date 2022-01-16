@@ -30,6 +30,8 @@ def save_to_file(str):
     print(str)
     with open(r'../../../log.txt', 'a') as f:
         f.write(str + '\n')
+def command(cmds):
+    subprocess.call(cmds, creationflags=subprocess.CREATE_NO_WINDOW)
 
 # def git_pull():
 #     try:
@@ -63,7 +65,7 @@ while True:
 
 
 #init gitt
-    subprocess.call(["git", "pull"], shell = False)
+    command(["git", "pull"])
     save_to_file(("Git Pulled"))
     sleep(30)
 
@@ -152,21 +154,21 @@ while True:
     git add --all
     """
 #     os.system("git add --all"+suppress)
-    subprocess.call(["git", "add", "--all"], shell = False)
+    command(["git", "add", "--all"])
     save_to_file(("files added to git"))
     sleep(30)
     """
     git commit
     """
 #     os.system('git commit -m "auto updates"'+suppress)
-    subprocess.call(["git", "commit", "-m", '"auto updates"'], shell = False)
+    command(["git", "commit", "-m", '"auto updates"'])
     save_to_file("files committed")
     sleep(30)
     """
     git push
     """
 #     os.system("git push"+suppress)
-    subprocess.call(["git", "push"], shell = False)
+    command(["git", "push"])
     save_to_file("files pushed")
     save_to_file("")
     

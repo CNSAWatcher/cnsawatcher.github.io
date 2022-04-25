@@ -115,7 +115,7 @@ while True:
     df = df.fillna('')
     df = df[~df['tweet'].str.startswith('@')]
 
-    df_new = pd.concat([df,df_tmp]).drop_duplicates().sort_values(by = ['date', 'time'], ascending = False)
+    df_new = pd.concat([df,df_tmp]).drop_duplicates(subset=['tweet']).sort_values(by = ['date', 'time'], ascending = False)
     df_new.to_csv('tweets.csv', sep = sep, header = False, index = False)
     df_new = df_new[~df_new['tweet'].str.startswith('@')]
     

@@ -7,6 +7,8 @@ import pandas as pd
 import re
 import json
 import subprocess
+from googleapiclient.discovery import build
+import urllib.request 
 
 
 # from git import Repo
@@ -150,6 +152,99 @@ while True:
     saveJSON(dfToList(df_Commercial), directory + 'commercial_updates.json')
     
     save_to_file("JSON saved")
+
+
+    """
+    Retrieve remote jsons
+    """
+    print("Retrieving jsons starts...")
+    # Create YouTube Object
+    youtube = build('youtube', 'v3',
+                    developerKey='0MxW8in0Z6F3LnvaGCroiHCMw6Ggn-cWCySazIA'[::-1])#'AIzaSyDX23FBLV3TJis8lh_I31tq4l6noUppGnU')#'AIzaSyCWc-ngG6wMCHiorCGavnL3F6Z0ni8WxM0')
+
+    def get_list_videos(channelId):
+        nextPageToken = None
+        return_list = []
+        while True:
+            sleep(1)
+            pl_request = youtube.search().list(
+                part='snippet',
+                q='',
+                channelId=channelId,
+                maxResults=50,
+                pageToken=nextPageToken
+                )
+            pl_response = pl_request.execute()
+
+            # Iterate through all response and get video description
+            for item in pl_response['items']:
+                # description = item['snippet']['description']
+                return_list.append(item)
+            print(nextPageToken)
+            nextPageToken = pl_response.get('nextPageToken')
+            if not nextPageToken:
+                break
+        return return_list
+
+    def get_videos_raw():
+        video_raw_list = []
+        video_raw_list += get_list_videos('UCmPk2F0Ze-HzDWZ8lEdTRaw')
+        video_raw_list += get_list_videos('UCvt59mvaxcTCEb7a0MLJutA')
+        return video_raw_list
+
+    def get_videos_list(videos_raw):
+        video_list = []
+        for item in videos_raw:
+            # print(item)
+            if item['id']['kind'] == 'youtube#video':
+                video_list.append({'date': item['snippet']['publishTime'][:10].replace('-',''), 'title': item['snippet']['title'].replace('&#39;', "'"), 'description': item['snippet']['description'].replace('&#39;', "'"), 'videoID': item['id']['videoId']})
+        video_list.sort(key=lambda item: item['date'], reverse=True)
+        return video_list
+
+    def filter_keywords(video_list, keywords):
+        ret_list = []
+        for item in video_list:
+            for word in keywords:
+                if word.lower() in item['description'].lower() or word.lower() in item['title'].lower():
+                    ret_list.append(item)
+                    break
+        return ret_list
+    videos_raw = get_videos_raw()
+    video_list = get_videos_list(videos_raw)
+    css_list = filter_keywords(video_list, ['Tiangong','Shenzhou','Space Station','Tianhe', "CSS","Astronaut","spacewalk","EVA"])
+    mars_list = filter_keywords(video_list, ['mars','zhurong','tianwen','martian'])
+    moon_list = filter_keywords(video_list, ["chang’e", "chang'e", "change","moon","yutu","lunar"])
+
+    directory = "../../json/"
+    with open(directory + 'space_tiangong_gallery_videos.json', 'w') as outfile:
+        json.dump(css_list, outfile, ensure_ascii=False)
+    with open(directory + 'zhurong_gallery_videos.json', 'w') as outfile:
+        json.dump(mars_list, outfile, ensure_ascii=False)
+    with open(directory + 'yutu_gallery_videos.json', 'w') as outfile:
+        json.dump(moon_list, outfile, ensure_ascii=False)
+
+
+    with urllib.request.urlopen("https://watcher-3eeb5-default-rtdb.firebaseio.com/launchlog.json") as url:
+        data = json.loads(url.read().decode())
+        if type(data) == dict:
+            data = list(data.values())
+            data.sort(key=lambda item: (item['date'], item['time']), reverse=True)
+        with open(directory + 'launch_log.json', 'w') as outfile:
+            json.dump(data, outfile, ensure_ascii=False)
+
+    with urllib.request.urlopen("https://watcher-3eeb5-default-rtdb.firebaseio.com/upcoming.json") as url:
+        
+        data = json.loads(url.read().decode())
+        if type(data) == dict:
+            data = list(data.values())
+            data.sort(key=lambda item: (item['date'], item['time']), reverse=True)
+        with open(directory + 'upcoming_activities.json', 'w') as outfile:
+            json.dump(data, outfile, ensure_ascii=False)
+
+    print("Retrieving jsons finished")
+
+
+
     """
     git add --all
     """

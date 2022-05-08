@@ -133,7 +133,7 @@ while True:
 
     searchforMoon = ["chang’e", "chang'e", "change","moon","yutu","lunar"]
     df_moon = df[df['tweet'].str.contains('|'.join(searchforMoon),flags=re.IGNORECASE)]
-    df_moon = df[df['tweet'].str.contains('lunar new year', flags=re.IGNORECASE) == False]
+    df_moon = df_moon[df_moon['tweet'].str.contains('lunar new year', flags=re.IGNORECASE) == False]
 
 
     searchforCSS = ['Tiangong','Shenzhou','Space Station','Tianhe', "CSS","Astronaut","spacewalk","EVA","Nie Haisheng","Liu Boming","Tang Hongbo"]

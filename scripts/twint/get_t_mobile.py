@@ -54,14 +54,16 @@ def command(cmds):
 
 # suppress = " >/dev/null 2>&1"
 
+count = 0
+
 while True:
     """
     git pull
     """
 
-
     save_to_file("-"*50)
     save_to_file((datetime.now().strftime("%d/%m/%Y %H:%M:%S")))
+    print("Turn: " + str(count))
 #     os.system("git pull"+suppress)
 #     git_pull()
 
@@ -131,6 +133,8 @@ while True:
 
     searchforMoon = ["chang’e", "chang'e", "change","moon","yutu","lunar"]
     df_moon = df[df['tweet'].str.contains('|'.join(searchforMoon),flags=re.IGNORECASE)]
+    df_moon = df[df['tweet'].str.contains('lunar new year', flags=re.IGNORECASE) == False]
+
 
     searchforCSS = ['Tiangong','Shenzhou','Space Station','Tianhe', "CSS","Astronaut","spacewalk","EVA","Nie Haisheng","Liu Boming","Tang Hongbo"]
     df_CSS = df[df['tweet'].str.contains('|'.join(searchforCSS),flags=re.IGNORECASE)]
@@ -157,93 +161,98 @@ while True:
     """
     Retrieve remote jsons
     """
-    print("Retrieving jsons starts...")
-    # Create YouTube Object
-    youtube = build('youtube', 'v3',
-                    developerKey='0MxW8in0Z6F3LnvaGCroiHCMw6Ggn-cWCySazIA'[::-1])#'AIzaSyDX23FBLV3TJis8lh_I31tq4l6noUppGnU')#'AIzaSyCWc-ngG6wMCHiorCGavnL3F6Z0ni8WxM0')
+    def retrieve_remote_jsons(developerKey = '0MxW8in0Z6F3LnvaGCroiHCMw6Ggn-cWCySazIA'[::-1]):
+        print("Retrieving jsons starts...")
+        # Create YouTube Object
+        youtube = build('youtube', 'v3',
+                        developerKey=developerKey)
 
-    def get_list_videos(channelId):
-        nextPageToken = None
-        return_list = []
-        while True:
-            sleep(1)
-            pl_request = youtube.search().list(
-                part='snippet',
-                q='',
-                channelId=channelId,
-                maxResults=50,
-                pageToken=nextPageToken
-                )
-            pl_response = pl_request.execute()
+        def get_list_videos(channelId):
+            nextPageToken = None
+            return_list = []
+            while True:
+                sleep(1)
+                pl_request = youtube.search().list(
+                    part='snippet',
+                    q='',
+                    channelId=channelId,
+                    maxResults=50,
+                    pageToken=nextPageToken
+                    )
+                pl_response = pl_request.execute()
 
-            # Iterate through all response and get video description
-            for item in pl_response['items']:
-                # description = item['snippet']['description']
-                return_list.append(item)
-            print(nextPageToken)
-            nextPageToken = pl_response.get('nextPageToken')
-            if not nextPageToken:
-                break
-        return return_list
-
-    def get_videos_raw():
-        video_raw_list = []
-        video_raw_list += get_list_videos('UCmPk2F0Ze-HzDWZ8lEdTRaw')
-        video_raw_list += get_list_videos('UCvt59mvaxcTCEb7a0MLJutA')
-        return video_raw_list
-
-    def get_videos_list(videos_raw):
-        video_list = []
-        for item in videos_raw:
-            # print(item)
-            if item['id']['kind'] == 'youtube#video':
-                video_list.append({'date': item['snippet']['publishTime'][:10].replace('-',''), 'title': item['snippet']['title'].replace('&#39;', "'"), 'description': item['snippet']['description'].replace('&#39;', "'"), 'videoID': item['id']['videoId']})
-        video_list.sort(key=lambda item: item['date'], reverse=True)
-        return video_list
-
-    def filter_keywords(video_list, keywords):
-        ret_list = []
-        for item in video_list:
-            for word in keywords:
-                if word.lower() in item['description'].lower() or word.lower() in item['title'].lower():
-                    ret_list.append(item)
+                # Iterate through all response and get video description
+                for item in pl_response['items']:
+                    # description = item['snippet']['description']
+                    return_list.append(item)
+                print(nextPageToken)
+                nextPageToken = pl_response.get('nextPageToken')
+                if not nextPageToken:
                     break
-        return ret_list
-    videos_raw = get_videos_raw()
-    video_list = get_videos_list(videos_raw)
-    css_list = filter_keywords(video_list, ['Tiangong','Shenzhou','Space Station','Tianhe', "CSS","Astronaut","spacewalk","EVA"])
-    mars_list = filter_keywords(video_list, ['mars','zhurong','tianwen','martian'])
-    moon_list = filter_keywords(video_list, ["chang’e", "chang'e", "change","moon","yutu","lunar"])
+            return return_list
 
-    directory = "../../json/"
-    with open(directory + 'space_tiangong_gallery_videos.json', 'w') as outfile:
-        json.dump(css_list, outfile, ensure_ascii=False)
-    with open(directory + 'zhurong_gallery_videos.json', 'w') as outfile:
-        json.dump(mars_list, outfile, ensure_ascii=False)
-    with open(directory + 'yutu_gallery_videos.json', 'w') as outfile:
-        json.dump(moon_list, outfile, ensure_ascii=False)
+        def get_videos_raw():
+            video_raw_list = []
+            video_raw_list += get_list_videos('UCmPk2F0Ze-HzDWZ8lEdTRaw')
+            video_raw_list += get_list_videos('UCvt59mvaxcTCEb7a0MLJutA')
+            return video_raw_list
+
+        def get_videos_list(videos_raw):
+            video_list = []
+            for item in videos_raw:
+                # print(item)
+                if item['id']['kind'] == 'youtube#video':
+                    video_list.append({'date': item['snippet']['publishTime'][:10].replace('-',''), 'title': item['snippet']['title'].replace('&#39;', "'"), 'description': item['snippet']['description'].replace('&#39;', "'"), 'videoID': item['id']['videoId']})
+            video_list.sort(key=lambda item: item['date'], reverse=True)
+            return video_list
+
+        def filter_keywords(video_list, keywords):
+            ret_list = []
+            for item in video_list:
+                for word in keywords:
+                    if word.lower() in item['description'].lower() or word.lower() in item['title'].lower():
+                        ret_list.append(item)
+                        break
+            return ret_list
+        videos_raw = get_videos_raw()
+        video_list = get_videos_list(videos_raw)
+        css_list = filter_keywords(video_list, ['Tiangong','Shenzhou','Space Station','Tianhe', "CSS","Astronaut","spacewalk","EVA"])
+        mars_list = filter_keywords(video_list, ['mars','zhurong','tianwen','martian'])
+        moon_list = filter_keywords(video_list, ["chang’e", "chang'e", "change","moon","yutu","lunar"])
+
+        directory = "../../json/"
+        with open(directory + 'space_tiangong_gallery_videos.json', 'w') as outfile:
+            json.dump(css_list, outfile, ensure_ascii=False)
+        with open(directory + 'zhurong_gallery_videos.json', 'w') as outfile:
+            json.dump(mars_list, outfile, ensure_ascii=False)
+        with open(directory + 'yutu_gallery_videos.json', 'w') as outfile:
+            json.dump(moon_list, outfile, ensure_ascii=False)
 
 
-    with urllib.request.urlopen("https://watcher-3eeb5-default-rtdb.firebaseio.com/launchlog.json") as url:
-        data = json.loads(url.read().decode())
-        if type(data) == dict:
-            data = list(data.values())
-            data.sort(key=lambda item: (item['date'], item['time']), reverse=True)
-        with open(directory + 'launch_log.json', 'w') as outfile:
-            json.dump(data, outfile, ensure_ascii=False)
+        with urllib.request.urlopen("https://watcher-3eeb5-default-rtdb.firebaseio.com/launchlog.json") as url:
+            data = json.loads(url.read().decode())
+            if type(data) == dict:
+                data = list(data.values())
+                data.sort(key=lambda item: (item['date'], item['time']), reverse=True)
+            with open(directory + 'launch_log.json', 'w') as outfile:
+                json.dump(data, outfile, ensure_ascii=False)
 
-    with urllib.request.urlopen("https://watcher-3eeb5-default-rtdb.firebaseio.com/upcoming.json") as url:
-        
-        data = json.loads(url.read().decode())
-        if type(data) == dict:
-            data = list(data.values())
-            data.sort(key=lambda item: (item['date'], item['time']), reverse=True)
-        with open(directory + 'upcoming_activities.json', 'w') as outfile:
-            json.dump(data, outfile, ensure_ascii=False)
+        with urllib.request.urlopen("https://watcher-3eeb5-default-rtdb.firebaseio.com/upcoming.json") as url:
 
-    print("Retrieving jsons finished")
+            data = json.loads(url.read().decode())
+            if type(data) == dict:
+                data = list(data.values())
+                data.sort(key=lambda item: (item['date'], item['time']), reverse=True)
+            with open(directory + 'upcoming_activities.json', 'w') as outfile:
+                json.dump(data, outfile, ensure_ascii=False)
 
-
+        print("Retrieving jsons finished")
+    
+    if count % 4 == 0:
+        try:
+            retrieve_remote_jsons(developerKey = '0MxW8in0Z6F3LnvaGCroiHCMw6Ggn-cWCySazIA'[::-1])
+        except:
+            retrieve_remote_jsons(developerKey = 'UnGppUon6l4qt13I_hl8siJT3VLBF32XDySazIA'[::-1])
 
     """
     git add --all
@@ -271,3 +280,5 @@ while True:
 #     save_to_file("git pushed")
 
     sleep(1800)
+    count += 1
+
